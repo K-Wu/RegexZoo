@@ -1,0 +1,2620 @@
+/[^0-9a-zA-Z]sbiedll\.dll[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]dbghelp\.dll[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]api_log\.dll[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]dir_watch\.dll[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]pstorec\.dll[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]vmcheck\.dll[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]wpespy\.dll[^0-9a-zA-Z]/i
+/HARDWARE\\\\Description\\\\System/i
+/SystemBiosVersion/i
+/QEMU/i
+/HARDWARE\\\\DEVICEMAP\\\\Scsi\\\\Scsi Port 0\\\\Scsi Bus 0\\\\Target Id 0\\\\Logical Unit Id 0/i
+/Identifier/i
+/QEMU/i
+/HARDWARE\\\\Description\\\\System/i
+/SystemBiosVersion/i
+/VBOX/i
+/HARDWARE\\\\DEVICEMAP\\\\Scsi\\\\Scsi Port 0\\\\Scsi Bus 0\\\\Target Id 0\\\\Logical Unit Id 0/i
+/Identifier/i
+/VBOX/i
+/SOFTWARE\\\\Oracle\\\\VirtualBox Guest Additions/i
+/HARDWARE\\\\Description\\\\System/i
+/VideoBiosVersion/i
+/VIRTUALBOX/i
+/HARDWARE\\\\DEVICEMAP\\\\Scsi\\\\Scsi Port 0\\\\Scsi Bus 0\\\\Target Id 0\\\\Logical Unit Id 0/i
+/Identifier/i
+/VMware/i
+/SOFTWARE\\\\VMware, Inc\.\\\\VMware Tools/i
+/\\\\\\\\\.\\\\PhysicalDrive0/i
+/SANDBOX/
+/\\\\SAMPLE/
+/\\\\VIRUS/
+/MALTEST/
+/TEQUILABOOMBOOM/
+/SANDBOX/
+/VIRUS/
+/MALWARE/
+/SELECT Description FROM Win32_VideoController/i
+/SELECT \* FROM Win32_VideoController/i
+/virtualbox graphics adapter/i
+/vmware svga ii/i
+/vm additions s3 trio32/64/i
+/parallel/i
+/remotefx/i
+/cirrus logic/i
+/matrox/i
+/VBoxService/i
+/VBoxTray/i
+/SOFTWARE\\\\Oracle\\\\VirtualBox Guest Additions/i
+/SOFTWARE\\\\\\\\Oracle\\\\\\\\VirtualBox Guest Additions/i
+/wine_get_unix_file_name/
+/vmmouse\.sys/
+/VMware Virtual IDE Hard Drive/
+/SYSTEM\\\\ControlSet001\\\\Services\\\\Disk\\\\Enum/i
+/SYSTEM\\\\\\\\ControlSet001\\\\\\\\Services\\\\\\\\Disk\\\\\\\\Enum/i
+/hgfs\.sys/
+/vmhgfs\.sys/
+/prleth\.sys/
+/prlfs\.sys/
+/prlmouse\.sys/
+/prlvideo\.sys/
+/prl_pv32\.sys/
+/vpc-s3\.sys/
+/vmsrvc\.sys/
+/vmx86\.sys/
+/vmnet\.sys/
+/vmicheartbeat/
+/vmicvss/
+/vmicshutdown/
+/vmicexchange/
+/vmci/
+/vmdebug/
+/vmmouse/
+/VMTools/
+/VMMEMCTL/
+/vmware/
+/vmx86/
+/vpcbus/
+/vpc-s3/
+/vpcuhub/
+/msvmmouf/
+/VBoxMouse/
+/VBoxGuest/
+/VBoxSF/
+/xenevtchn/
+/xennet/
+/xennet6/
+/xensvc/
+/xenvdb/
+/vmware2/
+/vmount2/
+/vmusrvc/
+/vmsrvc/
+/vboxservice/
+/vboxtray/
+/xenservice/
+/[^0-9a-zA-Z][0-9a-fA-F]{32}[^0-9a-zA-Z]/
+/[^0-9a-zA-Z][0-9a-fA-F]{48}[^0-9a-zA-Z]/
+/[^0-9a-zA-Z][0-9a-fA-F]{64}[^0-9a-zA-Z]/
+/[^0-9a-zA-Z][0-9a-fA-F]{128}[^0-9a-zA-Z]/
+/[^0-9a-zA-Z][0-9a-fA-F]{256}[^0-9a-zA-Z]/
+/advapi32\.dll/i
+/CryptCreateHash/
+/CryptHashData/
+/CryptAcquireContext/
+/crypt32\.dll/i
+/CryptBinaryToStringA/
+/advapi32\.dll/i
+/cryptdll\.dll/i
+/MD5Init/
+/MD5Update/
+/MD5Final/
+/bignum_data/i
+/DSA_METHOD/i
+/PDSA/i
+/dsa_mod_exp/i
+/bn_mod_exp/i
+/dsa_do_verify/i
+/dsa_sign_setup/i
+/dsa_do_sign/i
+/dsa_paramgen/i
+/BN_MONT_CTX/i
+/Can't find Payload\(\) address/
+//SilverApp1;component/App\.xaml/
+/Can't allocate ums after buf\[\]/
+/user32\.dll/
+/ntdll/
+/[^0-9a-zA-Z]atmfd\.dll[^0-9a-zA-Z]/
+/Equation Native/
+/Microsoft Equation 3\.0/
+/rdf:RDF/
+/Adobe Flex/
+/F:\\\\work\\\\flash\\\\obfuscation\\\\loadswf\\\\src/
+/URLRequest/
+/URLLoader/
+/loadswf/
+/myUrlReqest/
+/X\$Z'\\\\4\^=aEbIdUmiprsxt\}v</
+/soap:wsdl=http:///i
+/soap:wsdl=https:///i
+/[^0-9a-zA-Z]Project\.ThisDocument\.AutoOpen[^0-9a-zA-Z]/
+/GetObject\(\\"soap:wsdl=https:///i
+/GetObject\(\\"soap:wsdl=http:///i
+/\|'soap:wsdl=/i
+/<soap:address location="http[s]?:\/\/[^"]{8,140}.hta"/
+/<soap:address location="http[s]?:\/\/[^"]{8,140}mshta.exe"/
+/[^0-9a-zA-Z]netsh\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]routemon\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]script=[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]disconnect[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]interface[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]connect[^0-9a-zA-Z]/
+/pword=/
+/msg=/
+/UserForm/
+/UserLoginForm/
+/Invalid username or password/
+/uploadPOST/
+/postUpload/
+/_VBA_PROJECT_CUR/
+/[^0-9a-zA-Z]Macros[^0-9a-zA-Z]/
+/_VBA_PROJECT_CUR/
+/ret\.log/
+/Microsoft Internet Explorer 6\.0/
+/szURL Fail/
+/szURL Successfully/
+/%s&sdate=%04ld-%02ld-%02ld/
+/superhard corp\./
+/microsoft corp\./
+/\[Insert\]/
+/\[Delete\]/
+/\[End\]/
+/!\(\*@\)\(!@KEY/
+/!\(\*@\)\(!@SID=/
+/Services\\\\riodrv32/
+/riodrv32\.sys/
+/svchost\.exe/
+/wuauserv\.dll/
+/arp\.exe/
+/projects\\\\auriga/
+/superhard corp\./
+/microsoft corp\./
+/\[Insert\]/
+/\[Delete\]/
+/\[End\]/
+/!\(\*@\)\(!@KEY/
+/!\(\*@\)\(!@SID=/
+/end      binary output/
+/XriteProcessMemory/
+/IE:Password-Protected sites/
+/pstorec\.dll/
+/zxdosml/
+/get user name error!/
+/get computer name error!/
+/----client system info----/
+/stfile/
+/cmd success!/
+/\*Qd9kdgba33\*%Wkda0Qd3kvn\$\*&><\(\*&%\$E#%\$#1234asdgKNAg@!gy565dtfbasdg/
+/IDR_DATA%d/
+/asdfqwe123cxz/
+/Mode must be 0\(encrypt\) or 1\(decrypt\)\./
+/new_connection_to_bounce\(\):/
+/usage:%s IP port \[proxip\] \[port\] \[key\]/
+/content/
+/title/
+/entry/
+/feed/
+/DownRun success/
+/%s@gmail\.com/
+/<!--%s-->/
+/W4qKihsb\+So=/
+/PoqKigY7ggH\+VcnqnTcmhFCo9w==/
+/8oqKiqb5880/uJLzAsY=/
+/Mozilla4\.0 \(compatible; MSIE 7\.0; Win32\)/
+/Mozilla5\.1 \(compatible; MSIE 8\.0; Win32\)/
+/Delay/
+/Getfile/
+/Putfile/
+/---\[ Virtual Shell\]---/
+/Not Comming From Our Server %s\./
+/Mozilla/4\.0 \(compatible; MSIE 7\.0;\)/
+/KilFail/
+/KilSucc/
+/pkkill/
+/pklist/
+/Kill process success!/
+/Kill process failed!/
+/Sleep success!/
+/based on gloox/
+/glooxtest\.pdb/
+/Kill process success!/
+/Kill process failed!/
+/Sleep success!/
+/based on gloox/
+/glooxtest\.pdb/
+/Send to Server failed\./
+/HandShake with the server failed\. Error:/
+/Decryption Failed\. Context Expired\./
+/Mozilla/4\.0 \(compatible; MSIE8\.0; Windows NT 5\.1\)/
+/!\(\*@\)\(!@PORT!\(\*@\)\(!@URL/
+/MyTmpFile\.Dat/
+/SvcHost\.DLL\.log/
+/Mozilla/4\.0 \(compatible; Windows NT 5\.1; MSIE 7\.0; Trident/4\.0\)/
+/%s\\\\%c%c%c%c%c%c%c/
+/wait:/
+/Dcryption Error! Invalid Character/
+/svcMsn\.dll/
+/RundllInstall/
+/Config service %s ok\./
+/svchost\.exe/
+/Install an Service hosted by SVCHOST\./
+/The Dll file that to be released\./
+/SYSTEM\\\\CurrentControlSet\\\\Services\\\\/
+/svchost\.exe/
+/Man,it's me/
+/Oh,shit/
+/Hallelujah/
+/nRet == SOCKET_ERROR/
+/rouji\\\\release\\\\Install\.pdb/
+/rouji\\\\SvcMain\.pdb/
+/miniasp/
+/wakeup=/
+/download ok!/
+/command is null!/
+/device_input\.asp\?device_t=/
+/Mozilla/4\.0 \(compatible; Windows NT 5\.1; MSIE 7\.0\)/
+/name=%s&userid=%04d&other=%c%s/
+/download ok!/
+/command is null!/
+/noclient/
+/wait/
+/active/
+/hello/
+/User-Agent: Mozilla/4\.0 \(compatible; MSIE 5\.00; Windows 98\) KSMM/
+/upfileok/
+/download ok!/
+/upfileer/
+/fxftest/
+/\*\(SY\)# cmd/
+/send = %d/
+/cmd\.exe/
+/\*\(SY\)#/
+/@\*\*\*@\*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@>>>/
+/sleep:/
+/down:/
+/\*========== Bye Bye ! ==========\*/
+/thequickbrownfxjmpsvalzydg/
+/letusgohtppmmv2\.0\.0\.1/
+/Mozilla/4\.0 \(compatible; \)/
+/filestoc/
+/filectos/
+/reshell/
+/postvalue/
+/postdata/
+/postfile/
+/hostname/
+/clientkey/
+/start Cmd Failure!/
+/sleep:/
+/downloadcopy:/
+/download:/
+/geturl:/
+/1\.234\.1\.68/
+/sleep:/
+/content=/
+/reqpath=/
+/savepath=/
+/command=/
+/W!r@o#n\$g/
+/KerNel32\.dll/
+/SetElise\.pdb/
+/Eclipse_A/
+/\\\\PJTS\\\\/
+/Eclipse_Client_B\.pdb/
+/XiaoME/
+/SunCloud-Code/
+//uc_server/data/forum\.asp/
+/Serverfile is smaller than Clientfile/
+/\\\\M tools\\\\/
+/MoonDLL/
+/\\\\M tools\\\\/
+/3gZFQOBtY3sifNOl/
+/docbWUWsc2gRMv9HN7TFnvnKcrWUUFdAEem9DkqRALoD/
+/6QVSOZHQPCMc2A8HXdsfuNZcmUnIqWrOIjrjwOeagILnnScxadKEr1H2MZNwSnaJ/
+/MiniAsp\.pdb/
+/device_t=/
+/SLYHKAAY/
+/!@#%\$\^#@!/
+/64\.91\.80\.6/
+/ejlcmbv/
+/bhxjuisv/
+/yqzgrh/
+/uqusofrp/
+/Ljpltmivvdcbb/
+/frfogjviirr/
+/ximhttoskop/
+/!QAZ@WSX/
+/<meta xcd=/
+/MiniAsp\.pdb/i
+/%s\?%\.6u/
+/szFileUrl=%s/
+/status=%u/
+/down file success/
+/Mozilla/4\.0 \(compatible; MSIE 6\.0; Win32\)/
+/%s\\\\Attachment\.dat/
+/MyOutlook/
+/mail\.txt/
+/Recv Time:/
+/Subject:/
+/bits\.exe/
+/PDFBROW/
+/Browser\.exe/
+/Protect!/
+/pls give the FULL path/
+/mapi32\.dll/
+/doCompress/
+/getmail\.dll/
+/doCompress/
+/love/
+/name=\\"GALX\\"/
+/User-Agent: Shockwave Flash/
+/add cookie failed\.\.\./
+/,speed=%f/
+/Y29ubmVjdA/
+/c2xlZXA/
+/cXVpdA/
+/Y21k/
+/dW5zdXBwb3J0/
+/HTTP/1\.0/
+/Content-Type:/
+/IPHONE8\.5\(host:%s,ip:%s\)/
+/SOFTWARE\\\\MICROSOFT\\\\WINDOWS\\\\CURRENTVERSION\\\\RUN/
+/DefWatch\.exe/
+/index1\.html/
+/!@#tiuq#@!/
+/!@#dmc#@!/
+/!@#troppusnu#@!/
+/InprocServer32/
+/HKEY_PERFORMANCE_DATA/
+/<!---\[<if IE 5>\]id=/
+/Fail To Execute The Command/
+/Execute The Command Successfully/
+/GIF89/
+/iniet\.exe/
+/cmd\.exe/
+/SYSTEM\\\\CurrentControlSet\\\\Services\\\\DEVFS/
+/Device File System/
+/2010QBP/
+/adobe_sl\.exe/
+/URLDownloadToCacheFile/
+/dnsapi\.dll/
+/urlmon\.dll/
+/Ready!/
+/connect ok/
+/WinHTTP 1\.0/
+/<head>/
+/reader_sl\.exe/
+/MS80547\.bat/
+/ADR32/
+/ControlService failed!/
+/3DC76854-C328-43D7-9E07-24BF894F8EF5/
+/HKEY_CURRENT_USER\\\\Software\\\\Microsoft\\\\Windows\\\\CurrentVersion\\\\Run/
+/Hello from MFC!/
+/Microsoft Internet Explorer/
+//Default\.aspx\?INDEX=/
+//Default\.aspx\?ID=/
+/Win32/
+/Accept: text\*/\*/
+/xcmd\.exe/
+/Google\.exe/
+/BUILD ERROR!/
+/SUCCESS!/
+/wild scan/
+/Code too clever/
+/insufficient lookahead/
+/Mozilla/4\.0 \(compatible; MSIE 6\.1; Windows NT 5\.1; SV1\)/
+/Mozilla/5\.0 \(Windows; Windows NT 5\.1; en-US; rv:1\.8\.0\.12\) Firefox/1\.5\.0\.12/
+/VMProtect/
+/http://\[c2_location\]/\[page\]\.html/
+/<!---HEADER ADSPACE style=/
+/ERSVC\.DLL/
+/ntshrui\.dll/
+/%SystemRoot%\\\\System32\\\\/
+/<!--DOCHTML/
+/Mozilla/4\.0 \(compatible; MSIE 6\.0; Windows NT 5\.1\)/
+/Ausov/
+/exception\.\.\./
+/failed\.\.\./
+/opened\.\.\./
+/cmd\.exe/
+/ISUN32\.EXE/
+/\\\\pipe\\\\ssnp/
+/toobu\.ini/
+/Serverfile is not bigger than Clientfile/
+/URL download success/
+/\\\\XiaoME\\\\SunCloud-Code\\\\moon/
+/URL download success!/
+/Kugoosoft/
+/Modify file failed!! So strange!/
+/Create cmd process failed!/
+/The command has not been implemented!/
+/Runas success!/
+/onec\.php/
+//bin/onec/
+/WINRAR\.SFX/
+/Steup=/
+/aspnet_client/report\.asp/
+/name=%s&Gender=%c&Random=%04d&SessionKey=%s/
+/rusinfo\.exe/
+/cmd\.exe/
+/AdobeUpdater\.exe/
+/buildout\.exe/
+/DefWatch\.exe/
+/d\.exe/
+/em\.exe/
+/IMSCMig\.exe/
+/localfile\.exe/
+/md\.exe/
+/mdm\.exe/
+/mimikatz\.exe/
+/msdev\.exe/
+/ntoskrnl\.exe/
+/p\.exe/
+/otepad\.exe/
+/reg\.exe/
+/regsvr\.exe/
+/runinfo\.exe/
+/AdobeUpdate\.exe/
+/inetinfo\.exe/
+/svehost\.exe/
+/update\.exe/
+/NTLMHash\.exe/
+/wpnpinst\.exe/
+/WSDbg\.exe/
+/xcmd\.exe/
+/adobeup\.exe/
+/0830\.bin/
+/1001\.bin/
+/a\.bin/
+/ISUN32\.EXE/
+/AcroRD32\.EXE/
+/INETINFO\.EXE/
+/nwwwks\.dll/
+/rdisk\.dll/
+/skeys\.dll/
+/SvcHost\.DLL\.log/
+/InstallService/
+/RundllInstallA/
+/RundllUninstallA/
+/ServiceMain/
+/UninstallService/
+/Down file ok!/
+/Send file ok!/
+/Command Error!/
+/Pls choose target first!/
+/Alert!/
+/Pls press enter to make sure!/
+/Are you sure to /
+/rusinfo\.exe/
+/cmd\.exe/
+/AdobeUpdater\.exe/
+/buildout\.exe/
+/DefWatch\.exe/
+/d\.exe/
+/em\.exe/
+/IMSCMig\.exe/
+/localfile\.exe/
+/md\.exe/
+/mdm\.exe/
+/mimikatz\.exe/
+/msdev\.exe/
+/ntoskrnl\.exe/
+/p\.exe/
+/otepad\.exe/
+/reg\.exe/
+/regsvr\.exe/
+/runinfo\.exe/
+/AdobeUpdate\.exe/
+/inetinfo\.exe/
+/svehost\.exe/
+/update\.exe/
+/NTLMHash\.exe/
+/wpnpinst\.exe/
+/WSDbg\.exe/
+/xcmd\.exe/
+/adobeup\.exe/
+/0830\.bin/
+/1001\.bin/
+/a\.bin/
+/ISUN32\.EXE/
+/AcroRD32\.EXE/
+/INETINFO\.EXE/
+/Analysis And Outlook\.doc/
+/North Korean launch\.pdf/
+/Dollar General\.doc/
+/Dow Corning Corp\.pdf/
+/RedLeavesSCMDSimulatorMutex/i
+/red_autumnal_leaves_dllmain\.dll/
+/\\\\NamePipe_MoreWindows/
+/[^0-9a-zA-Z]Microsoft\? Windows\? Operating System[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Repeat last find command\)Replace specific text with different text[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]l\\\\Processor\(0\)\\\\% Processor Time[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Self Process[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Default Process[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Star Polk\.exe[^0-9a-zA-Z]/
+/%%TEMP%%\\\\%s_p\.ax/
+/%TEMP%\\\\uid\.ax/
+/%%TEMP%%\\\\%s\.ax/
+/rat_UnInstall/
+/FileVersion/
+/AutoIt v3 Script: 3, 3, 8, 1/
+/[^0-9a-zA-Z]WindowsSysUtility - Unicode[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]msiexec\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]system32\\\\icacls\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]/C /Q /grant [^0-9a-zA-Z]/
+/[^0-9a-zA-Z]taskhost\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]shutdown\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\.exe\.sys\.drv\.doc\.docx\.xls\.xlsx\.mdb\.ppt\.pptx\.xml\.jpg\.jpeg\.ini\.inf\.ttf[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%ls_%ls_%ls_%d\.~tmp[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]USB MDM Driver[^0-9a-zA-Z]/
+/[^0-9a-zA-Z] AMD IDE driver[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]SessionEnv[^0-9a-zA-Z]/
+/\\\\DosDevices\\\\\{C9059FFF-1C49-4445-83E8-/
+/\\\\Device\\\\\{C9059FFF-1C49-4445-83E8-/
+/[^0-9a-zA-Z]&Enter password for the encrypted file:[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]wmic nteventlog where filename=\\"SecEvent\\" call cleareventlog[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]del %Temp%\\\\\*\.exe %Temp%\\\\\*\.dll %Temp%\\\\\*\.bat %Temp%\\\\\*\.ps1 %Temp%\\\\\*\.cmd /f /q[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Mozilla/4\.0 \(compatible; MSIE 8\.0; Windows NT 5\.1; SV1; \.NET CLR 2\.0\.50727\.42\)[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]http://www\.msftncsi\.com[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]net use \| find /i \\"c\$\\"[^0-9a-zA-Z]/
+/[^0-9a-zA-Z] /del /y & [^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\auto\.cfg[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]/ncsi\.txt[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Dcmd /c[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]/PROXY[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\.http_port\\", [^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\.autoconfig_url\\", \\"[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\.proxy[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\.no_proxies_on\\", \\"[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]8Rkzy\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Export Template[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Close All Documents[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]PROCEXPLORER[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]PGPsdkDriver[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]jpeg1x32[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]SkypeIE6Plugin[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]CDllUninstall[^0-9a-zA-Z]/
+/cgi-bin/commcgi\.cgi/
+/Group/
+/Install/
+/Bn/
+/linkconf\.net/i
+/redirserver\.net/i
+/swupdt\.com/i
+/[^0-9a-zA-Z]\\"svchost\.exe\\"[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\"Host Process for Windows Services\\"[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%s; %S=%S[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]http://%S:%d[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Operating System\\"[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]nKERNEL32\.DLL[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]@ReturnValue[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]domcommon\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]aiomgr\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]CAPESPN\.DLL[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]WINF\.DLL[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]NCFG\.DLL[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]msgrthlp\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Windows Shell Icon Handler[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Microsoft Shell Icon Handler[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Windows Shell Icon Handler[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Microsoft Shell Icon Handler[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%ws_out%ws[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Akernel32\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]winrarsfxmappingfile\.tmp[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]GETPASSWORD1[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]CryptUnprotectMemory failed[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Cannot create folder %sDCRC failed in the encrypted file %s\. Corrupt file or wrong password\.[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]WinRAR self-extracting archive[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%TEMP%\\\\HID[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%s\\\\hid\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%s\\\\SOUNDMAN\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\"%s\\\\SOUNDMAN\.exe\\" %d %d[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%s\\\\HID\.dllx[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]svchost\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Copyright \? 2008[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Device Protect Application[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Elevation:Administrator!new:\{3ad05575-8857-4850-9277-11b85bdb8e09\}[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Elevation:Administrator!new:\{3ad05575-8857-4850-9277-11b85bdb8e09\}[^0-9a-zA-Z]/
+/Elevation:Administrator!new:/
+/[^0-9a-zA-Z]\\\\sysprep\\\\sysprep\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\sysprep\\\\CRYPTBASE\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\sysprep[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]dropper, Version 1\.0[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]dropper[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]DROPPER[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]About dropper[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Microsoft Windows Manager Utility[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Copyright \(C\) Microsoft Corporation\.  All rights reserved\.\(C\) 2012[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]DRIVERS\\\\ipinip\.sys[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%SystemRoot%\\\\System32\\\\wiaservc\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Microsoft Chart ActiveX Control[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]MSChartCtrl\.ocx[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]SYS_BASCON\.COM[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]\.pcmp[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]\.pcmi[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]\.pcmt[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]\.cin[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]101\.dll[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]Crash101\.dll[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]104\.dll[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]Crash104\.dll[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]61850\.dll[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]Crash61850\.dll[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]OPCClientDemo\.dll[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]OPC[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]CrashOPCClientDemo\.dll[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]D2MultiCommService\.exe[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]CrashD2MultiCommService\.exe[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]61850\.exe[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]OPC\.exe[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]haslo\.exe[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]haslo\.dat[^0-9a-zA-Z]/i
+/IEC-104 client: ip=%s; port=%s; ASDU=%u/i
+/ MSTR ->> SLV/i
+/ MSTR <<- SLV/i
+/Unknown APDU format !!!/i
+/iec104\.log/i
+/[^0-9a-zA-Z]Command line port scanner[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]sl\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Foundstone Inc\.[^0-9a-zA-Z]/
+/[^0-9a-zA-Z] 2002 Foundstone Inc\.[^0-9a-zA-Z]/
+/180\.150\.228\.102/
+/Upload failed! \[Remote error code:/i
+/GDGSYDLYR_%/
+/[^0-9a-zA-Z]loadso[^0-9a-zA-Z]/
+/\\nuname -a\\n\\n/
+//dev/shm/\.x11\.id/
+/LxMain64/i
+/# \\\\u@\\\\h:\\\\w \\\\\$ /
+/0123456789abcdefghijklmnopqrstuvwxyz/
+/0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ/
+/[^0-9a-zA-Z]ret %d[^0-9a-zA-Z]/
+/uname -a\\n\\n/
+//proc/%u/cmdline/
+//proc/self/exe/
+/cp -a %s %s/
+/[^0-9a-zA-Z]/dev/pts/4[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]/tmp/1408\.log[^0-9a-zA-Z]/
+/USB/
+/RAM/
+/SHARE/
+//s /u/
+/bcdedit -set testsigning/
+/update\.microsoft\.com/
+/_crt_debugger_hook/
+/ue8G5/
+/NET/
+/\\\\\\\\\.\\\\pipe\\\\%s/
+/\.dat/
+/CONNECT %s:%d/
+/\\\\Device\\\\/
+/-%s-%04d/
+/-%04d/
+/FAL/
+/OK/
+/2\.03/
+/XXXXXXXXXXXXXXX/
+/Dom4!nUserP4ss/
+/273ce6-b29f-90d618c0/
+/[^0-9a-zA-Z]Ace123dx[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Ace123dxl![^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Ace123dx!@#x[^0-9a-zA-Z]/
+//Catelog/login1\.asp/
+/~DFTMP\$\$\$\$\$\.1/
+/GET /Query\.asp\?loginid=/
+/LoadConfigFromReg failded/
+/LoadConfigFromBuildin success/
+//photoe/photo\.asp HTTP/
+/POST /photos/photo\.asp/
+/PCC_IDENT/
+/[^0-9a-zA-Z]\\\\\\\\\.\\\\pipe\\\\usbpcex%d[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\\\\\\.\\\\pipe\\\\usbpcg%d[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\\?\?\\\\pipe\\\\usbpcex%d[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\\?\?\\\\pipe\\\\usbpcg%d[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Registry\\\\User\\\\%s\\\\Software\\\\Microsoft\\\\Windows\\\\CurrentVersion\\\\Internet Settings[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Registry\\\\Machine\\\\SYSTEM\\\\CurrentControlSet\\\\Control\\\\WMI[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Driver\\\\nsiproxy[^0-9a-zA-Z]/
+/api\.box\.com/oauth2/token/
+/upload\.box\.com/api/2\.0/files/content/
+/api\.pcloud\.com/uploadfile\?path=%s&filename=%s&nopartial=1/
+/cloud-api\.yandex\.net/v1/disk/resources/download\?path=%s/
+/def_%s\.jpg/
+/pho_%s_%d\.jpg/
+/login=%s&password=%s&login_submit=Authorizing/
+/Set-Cookie:\\\\b\*\{\.\+\?\}\\\\n/
+/charset=\{\[A-Za-z0-9\\\\-_\]\+\}/
+/[^0-9a-zA-Z]sshkeypairgen\.exe[^0-9a-zA-Z]/
+/\{AAFFC4F0-E04B-4C7C-B40A-B45DE971E81E\}/
+/\\\\\\\\\.\\\\pipe\\\\\{AAFFC4F0-E04B-4C7C-B40A-B45DE971E81E\}/
+/\\\\\\\\\.\\\\pipe\\\\\{AB6172ED-8105-4996-9D2A-597B5F827501\}/
+/Global\\\\\{B54E3268-DE1E-4c1e-A667-2596751403AD\}/
+/SELECT `Data` FROM `Binary` WHERE `Name`='%s%i'/
+/SELECT `Data` FROM `Binary` WHERE `Name`='CryptHash%i'/
+/SELECT `%s` FROM `%s` WHERE `%s`='CAData%i'/
+/msisvc_32@/
+/PROP=/
+/-Embedding/
+/S:\(ML;;NW;;;LW\)/
+/\\\\DosDevices\\\\port_optimizer/i
+/PortOptimizerTermSrv/
+/[^0-9a-zA-Z]Global\\\\\{B54E3268-DE1E-4c1e-A667-2596751403AD\}[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]msisvc_32@[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]svcmsi_32\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]msi3_32\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]msi4_32\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]SELECT `Data` FROM `Binary` WHERE `Name`='%s%i'[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Sysinternals installer[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Process Explorer[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Installer for printer drivers and applications[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]msi4_32\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]HASHVAL[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]SELECT `%s` FROM `%s` WHERE `%s`='CAData%i'[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Samsung Electronics Co\., Ltd\.[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]SELECT `UserName`, `Password`, `Attributes` FROM `CustomUserAccounts`[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]SELECT `UserName` FROM `CustomUserAccounts`[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]SELECT `Data` FROM `Binary` WHERE `Name`='CryptHash%i'[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]msi3_32\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]MSI Custom Action v3[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]msi3_32[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Operating System[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]WinDLL\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]89:z89:%r%opw[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Ropopoprstuvwypypop[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]-------- driver start token -------[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]-------- keystart token -------[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\(&\(objectCategory=person\)\(objectClass=user\)\(cn=[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\\\\\%ls\\\\root\\\\cimv2[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%4ls%2ls%2ls%2ls%2ls%2ls\.%11l\[0-9\]%1l\[\+-\]%6s[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\* Failed to get remote TCP socket address[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\* Failed to get 'LPStart' export[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Usage: %ls <logdir> <dll_search_path> <dll_to_load_path> <socket>[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\\\\\%ls\\\\root\\\\cimv2[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\* Size \(%d\) of remaining capture file is too small to contain a valid header[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\* Capture header not found at start of buffer[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Usage: %ws <capture_file> <results_prefix>[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]slocalhost[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\\\\\%ls\\\\root\\\\cimv2[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\* Failed to get connection information\.  Aborting launcher![^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Format: <command> <target port> \[lp port\][^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Failure parsing command from %hs:%u: os=%u plugin=%u[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Unable to get TCP listen port: %08x[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Registry\\\\User\\\\CurrentUser\\\\[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]FILE_NAME_CONVERSION\.LOG[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Log file exists\. You must delete it!!![^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\\\\\\.\\\\pipe\\\\pcheap_reuse[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\*\*\*\* FAILED TO DUPLICATE SOCKET \*\*\*\*[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\*\*\*\* UNABLE TO DUPLICATE SOCKET TYPE %u \*\*\*\*[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]YOU CAN IGNORE ANY 'ServiceEntry returned error' messages after this\.\.\.[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Copyright \(C\) Microsoft[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]system32\\\\winsrv\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\dllcache\\\\[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]SYSTEM\\\\CurrentControlSet\\\\Services\\\\Tcpip\\\\Parameters\\\\Interfaces\\\\%hs[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\system32\\\\win32k\.sys[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]CcnFormSyncExFBC[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]----====\*\*\*\* PORT KNOCK TRIGGER BEGIN \*\*\*\*====----[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Registry\\\\User\\\\CurrentUser\\\\[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\DosDevices\\\\%ws[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Device\\\\%ws_%ws[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%ws%03d%ws%wZ[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]TCP/IP driver[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\\\\\\.\\\\%s:[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\(deleted\)[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Corporation\. All rights reserved\.[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Copyright \(C\) Microsoft[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\(&\(objectCategory=person\)\(objectClass=user\)\(cn=[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\(&\(objectClass=user\)\(objectCategory=person\)[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Error in conversion\. SlDecoder\.exe <input filename> <output filename> at command line [^0-9a-zA-Z]/
+/[^0-9a-zA-Z]KeyLogger_Data[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Unable to get -w hash\.  %x[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]!\\"invalid instruction mnemonic constant Id3vil\\"[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Unable to set -w provider\. %x[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\* Failed to connect to destination - %u[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\* Failed to convert destination address into sockaddr_storage values[^0-9a-zA-Z]/
+/Injection Lib -  /
+/LSADUMP - - ERROR/
+/prkMtx/
+/cnFormSyncExFBC/
+/cnFormVoidFBC/
+/[^0-9a-zA-Z]%SystemRoot%\\\\system32\\\\hnetcfg\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%WINDIR%\\\\System32\\\\ahlhcib\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%WINDIR%\\\\sjyntmv\.dat[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Global\\\\\{8c38e4f3-591f-91cf-06a6-67b84d8a0102\}[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%WINDIR%\\\\System32\\\\owrwbsdi[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Chrome[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]itemagic\.net@443[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]team4heat\.net@443[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]62\.216\.152\.69@443[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]84\.233\.205\.37@443[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]www\.microsoft\.com@80[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]www\.google\.com@80[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]127\.0\.0\.1:3128[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]msrtdv\.sys[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\registry\\\\machine\\\\software\\\\Microsoft\\\\Windows NT\\\\CurrentVersion[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\registry\\\\machine\\\\SYSTEM\\\\ControlSet001\\\\Control\\\\Session Manager\\\\Environment[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]DOGROUND\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Windows Configuration Services[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\system32\\\\win32k\.sys[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]@prkMtx[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]STATIC[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]windir[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]cnFormVoidFBC[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]CcnFormSyncExFBC[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]WinStaObj[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]BINRES[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]lsasrv32\.dll and lsass\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]5\.2\.3790\.220 \(srv03_gdr\.040918-1552\)[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\system32\\\\win32k\.sys[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]BINARY[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]@STATIC[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]@prkMtx[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]prkMtx[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]cnFormVoidFBC[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Original Innovations, LLC[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Moniter Resource Protocol[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]ahlhcib\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Microsoft\(R\) Windows \(TM\) Operating System[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Registry\\\\User\\\\CurrentUser\\\\[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]mstcp32\.sys[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Device\\\\%ws_%ws[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\DosDevices\\\\%ws[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Device\\\\%ws[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Microsoft\(R\) Windows \(TM\) Operating System[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]IP Transport Driver[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]tdip\.sys[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Device\\\\%ws_%ws[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\DosDevices\\\\%ws[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Device\\\\%ws[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Corporation\. All rights reserved\.[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]IP Transport Driver[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]tdip\.sys[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]msrstd\.sys[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]msrstd driver[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Microsoft\(R\) Windows \(TM\) Operating System[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Registry\\\\User\\\\CurrentUser\\\\[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]msndsrv\.sys[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\REGISTRY\\\\MACHINE\\\\System\\\\CurrentControlSet\\\\Control\\\\Windows[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Device\\\\%ws_%ws[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\DosDevices\\\\%ws[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Device\\\\%ws[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\registry\\\\machine\\\\software\\\\Microsoft\\\\Windows NT\\\\CurrentVersion[^0-9a-zA-Z]/
+/\\\\registry\\\\machine\\\\SYSTEM\\\\ControlSet001\\\\Control\\\\Session Manager\\\\En/
+/[^0-9a-zA-Z]\\\\DosDevices\\\\Gk[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Device\\\\Gk0[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Copyright 1999 RAVISENT Technologies Inc\.[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]RAVISENT Technologies Inc\.[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Created by VIONA Development[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Registry\\\\User\\\\CurrentUser\\\\[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\device\\\\harddiskvolume[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]ATMDKDRV\.SYS[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Device\\\\%ws_%ws[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\DosDevices\\\\%ws[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]CineMaster C 1\.1 WDM Main Driver[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Device\\\\%ws[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]CineMaster C 1\.1 WDM[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]SERVICES\.EXE[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\command\.com[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Microsoft\(R\) Windows \(TM\) Operating System[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]LSASS\.EXE[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Windows Configuration Services[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Microsoft\(R\) Windows \(TM\) Operating System[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Registry\\\\User\\\\CurrentUser\\\\[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]atmdkdrv\.sys[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Device\\\\%ws_%ws[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\DosDevices\\\\%ws[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Device\\\\%ws[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]volrec\.sys[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Volume recognizer driver[^0-9a-zA-Z]/
+/Backsnarf_AB25/
+/[^0-9a-zA-Z]30\.40\.50\.60:9342[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]185\.100\.84\.134[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]58\.49\.58\.58[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]218\.1\.98\.203[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]187\.33\.33\.8[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]185\.86\.148\.227[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]45\.32\.129\.185[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]23\.227\.196\.217[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]pagemgr\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]kbdclass\.sys[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\QwLog_%d-%02d-%02d-%02d%02d%02d\.txt[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\QwLog_%d-%02d-%02d-%02d%02d%02d\.xml[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]- Log Used \(number of windows\) - %d[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]- Log Limit \(number of windows\) - %d[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Process or User Default Language[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Windows 98/Me, Windows NT 4\.0 and later: Vietnamese[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]- Logging of keystrokes is switched ON[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]- Logging of keystrokes is switched OFF[^0-9a-zA-Z]/
+/Qwerty is currently logging active windows with titles containing the fo/
+/[^0-9a-zA-Z]Windows 95, Windows NT 4\.0 only: Korean \(Johab\)[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]FAILED to get Qwerty Status[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]- Successfully retrieved Log from Implant\.[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]- Logging of all Windows is toggled ON[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]- Logging of all Windows is toggled OFF[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Qwerty FAILED to retrieve window list\.[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]- UNSUCCESSFUL Log Retrieval from Implant\.[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]- Log files were NOT generated![^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Windows 2000/XP: Armenian\. This is Unicode only\.[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]- This machine is using a PS/2 Keyboard - Continue on using QWERTY[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Egistec[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Copyright \(C\) 2016[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Danderspritz[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]DanderSpritz[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]PeddleCheap[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]ChimneyPool Addres[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Mcl_NtElevation[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Mcl_NtNativeApi[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Mcl_ThreatInject[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Mcl_NtMemory[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]C:\\\\ddd\\\\a1\.txt[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]/Home/SaveFile\?commandId=CmdResult=[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Set-Cookie:\\\\b\*\{\.\+\?\}\\\\n[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]SELECT \* FROM AntiVirusProduct[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]C:\\\\ddd\\\\wer2\.txt[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Microsoft\\\\Windows\\\\tmp43hh11\.txt[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]C:\\\\ProgramData\\\\stat2\.dat[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Start Keylog Done[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Microsoft\\\\Windows\\\\tmp43hh11\.txt[^0-9a-zA-Z]/
+/>process isn't exist</
+/shell\\\\open\\\\command=\\"System Volume Information\\\\USBGuard\.exe\\" install/
+/User-Agent: Mozilla/5\.0 \(Windows NT 6\.; WOW64; rv:20\.0\) Gecko/20100101 Firefox/20\.0/
+/webhp\?rel=psy&hl=7&ai=/
+/PhysicalDrive%d/
+/wevtutil clear-log/i
+/vssadmin delete shadows/i
+/AGlobal\\\\23d1a259-88fa-41df-935f-cae523bab8e6/i
+/Global\\\\07fd3ab3-0724-4cfd-8cc2-60c0e450bb9a/i
+/\.exe\.sys\.drv\.doc\.docx\.xls\.xlsx\.mdb\.ppt\.pptx\.xml\.jpg\.jpeg\.ini\.inf\.ttf/
+/\.dll\.exe\.xml\.ttf\.nfo\.fon\.ini\.cfg\.boot\.jar/
+/\.crt\.bin\.exe\.db\.dbf\.pdf\.djvu\.doc\.docx\.xls\.xlsx\.jar\.ppt\.pptx\.tib\.vhd\.iso\.lib\.mdb\.accdb\.sql\.mdf\.xml\.rtf\.ini\.cf g\.boot\.txt\.rar\.msi\.zip\.jpg\.bmp\.jpeg\.tiff/
+/%ls_%ls_%ls_%d\.~tmp/
+/dll\.dll/
+/Init1/
+/netui\.dll/
+/https://www\.google\.com/url\?sa=/
+/&rct=/
+/&q=&esrc=/
+/&source=/
+/&cd=/
+/&ved=/
+/&url=/
+/&ei=/
+/&usg=/
+/&bvm=/
+/QFj/
+/bv\.81/
+/[^0-9a-zA-Z]\\\\Registry\\\\Machine\\\\System\\\\ControlSet00%d\\\\services\\\\ndisk\.sys[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Registry\\\\Machine\\\\System\\\\ControlSet00%d\\\\Enum\\\\Root\\\\LEGACY_NDISK\.SYS[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Driver\\\\DeepFrz[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Microsoft Kernel Disk Manager[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]ndisk\.sys[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Device\\\\MSH4DEV1[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\DosDevices\\\\MSH4DEV1[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]built by: WinDDK[^0-9a-zA-Z]/
+/\- (C)hecking components/
+/\- (A)ctivating hiding system/
+/(f)ully operational/
+/\- Browser activity \(FF\)/
+/\- Browser activity \(IE\)/
+/\[Unable to deploy\]/
+/\[The system is already monitored\]/
+/(E)ngine started/
+/(R)unning in background/
+/(L)ocking doors/
+/(R)otors engaged/
+/(I)\'m going to start it/
+/Starting upgrade\!/
+/(I)\'m going to start the program/
+/(i)s it ok\?/
+/(C)lick to start the program/
+/(U)pdJob/
+/(U)pdTimer/
+/(O)wning PCI bus/
+/(F)ormatting bios/
+/(P)lease insert a disk in drive A:/
+/(U)pdating CPU microcode/
+/(N)ot sure what's happening/
+/(L)ook ma, no thread id\! \\\\o\//
+/system32\\\\cmd\.exe/
+/C:\\\\Windows\\\\System32\\\\sysprep\\\\sysprep\.exe/
+/%SystemRoot%\\\\system32\\\\cmd\.exe/
+/\\\\Drivers\\\\usbmgr\.tmp/
+/\\\\Drivers\\\\usbmgr\.sys/
+/irene/
+/Wating/
+/Reamin/
+/laptos/
+/\\\\\\\\\.\\\\PhysicalDrive/
+/[^0-9a-zA-Z]SYSTEM\\\\CurrentControlSet\\\\Services\\\\%ls[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]SYS_BASCON\.COM[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\*\.pcmt[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\*\.pcmi[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]sc create %ls type= own start= auto error= ignore binpath= \\"%ls\\" displayname= \\"%ls\\"[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]10\.15\.1\.69:3128[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Mozilla/4\.0 \(compatible; MSIE 7\.0; Windows NT 5\.1; InfoPath\.1\)[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]/c sc stop %s[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]sc start %ls[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]93\.115\.27\.57[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]5\.39\.218\.152[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]tierexe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]comsys[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]195\.16\.88\.6[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]TieringService[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]TEMP\\x00\\x00DEF[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]TEMP\\x00\\x00DEF-C[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]TEMP\\x00\\x00DEF-WS[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]TEMP\\x00\\x00DEF-EP[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]TEMP\\x00\\x00DC-2-TEMP[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]TEMP\\x00\\x00DC-2[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]TEMP\\x00\\x00CES-McA-TEMP[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]TEMP\\x00\\x00SRV_WSUS[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]TEMP\\x00\\x00SRV_DC-2[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]TEMP\\x00\\x00SCE-WSUS01[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Error params Arguments!!![^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\^\(\.\+\?\.exe\)\.\*\\\\s\+-ip\\\\s\*=\\\\s\*\(\.\+\)\\\\s\+-ports\\\\s\*=\\\\s\*\(\.\+\)\$[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Exhample:App\.exe -ip= 127\.0\.0\.1-100,[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Error IP Range %ls - %ls[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Can't closesocket\.[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]haslo\.dat[^0-9a-zA-Z]/
+/ASPXSpy/i
+/IIS Spy/i
+/protected void DGCoW\(object sender,EventArgs e\)/i
+/openmydoor/i
+/Install service error/i
+/start remove service/i
+/NdisVersion/i
+/Unable to alloc the adapter!/i
+/Wait for master fuck/i
+/xx\.exe <HOST> <PORT>/i
+/chkroot2007/i
+/Door is bind on %s/i
+/Microsoft\.Exchange\.Clients\.Auth\.dll/i
+/Dllshellexc2010/i
+/Users\\\\ljw\\\\Documents/i
+/please input path/i
+/auth\.owa/i
+/\\\\DnsTunClient\\\\/i
+/\\\\t-DNSTunnel\\\\/i
+/xssok\.blogspot/i
+/dnstunclient/i
+/because of error, can not analysis/i
+/can not deal witn the error/i
+/the other retun one RST/i
+/Coversation produce one error/i
+/Program try to use the have deleted the buffer/i
+/EFH3 \[HEX\] \[SRCFILE\] \[DSTFILE\]/i
+/123\.EXE 123\.EFH/i
+/ENCODER: b\[i\]: = /i
+/\(LUID ERROR\)/i
+/Users\\\\K8team\\\\Desktop\\\\GetPassword/i
+/Debug x64\\\\GetPassword\.pdb/i
+/Authentication Package:/i
+/Authentication Domain:/i
+/\* Password:/i
+/Primary User:/i
+/getuserinfo username/i
+/joe@joeware\.net/i
+/If \. specified for userid,/i
+/Game Over Good Luck By Wind/i
+/ReleiceName/i
+/jingtisanmenxiachuanxiao\.vbs/i
+/Winds Update/i
+/gtalklite\.com/i
+/computer=%s&lanip=%s&uid=%s&os=%s&data=%s/i
+/D13idmAdm/i
+/Error: PeekNamedPipe failed with %i/i
+/\.dllUT/i
+/\.exeUT/i
+/\.urlUT/i
+/listen SOCKET error\./i
+/WSAAsyncSelect SOCKET error\./i
+/new SOCKETINFO error!/i
+/Http/1\.1 403 Forbidden/i
+/Create SOCKET error\./i
+/This service can't be stoped\./i
+/Provides support for media palyer/i
+/CreaetProcess Error/i
+/Kill You/i
+/%4\.2f GB/i
+/Dos Emluator Ver/i
+/\\\\PIPE\\\\FASTDOS/i
+/FastDos\.cpp/i
+/fail,error code = %d\./i
+/SAFEPROXY HTServerTimer Quit!/i
+/Useage: %s pid/i
+/%s PORT\[%d\] TO PORT\[%d\] SUCCESS!/i
+/p0: port for listener/i
+/\\\\users\\\\whg\\\\desktop\\\\plug\\\\/i
+/\[\+Y\] cwnd : %3d, fligth:/i
+/\\\\UnitFrmManagerKeyLog\.pas/i
+/\\\\UnitFrmManagerRegister\.pas/i
+/Input Name\.\.\./i
+/New Value#/i
+/TThreadRControl\.Execute SEH!!!/i
+/\\\\UnitFrmRControl\.pas/i
+/OnSocket\(event is error\)!/i
+/Make 3F Version Ok!!!/i
+/PELEASE DO NOT CHANGE THE DOCAMENT/i
+/Press \[Ok\] Continue Run, Press \[Cancel\] Exit/i
+/Fail To Load LSASRV/i
+/Fail To Search LSASS Data/i
+/User Principal/i
+/RING RAT Exception/i
+/\(can not update server recently\)!/i
+/CreaetProcess Error/i
+/Sucess!/i
+/user canceled!/i
+/Temp Result File , Change it to where you like/i
+/wmiexec/i
+/By\. Twi1ight/i
+/\[both mode\] ,delay TIME to read result/i
+/such as nc\.exe or Trojan/i
+/\+\+\+shell mode\+\+\+/i
+/win2008 fso has no privilege to delete file/i
+/[^0-9a-zA-Z]activedsimp\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]PluginDeflater\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\.Deflated[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]TestPlugin\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]<a href='http://www\.baidu\.com'>aasd</a>[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]C:\\\\PROGRA~2\\\\IEHelper\\\\mshtml\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]C:\\\\DOCUME~1\\\\ALLUSE~1\\\\IEHelper\\\\mshtml\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Content-Type: multipart/form-data; boundary=----=_Part_%x[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]C:\\\\Windows\\\\System32\\\\rundll32\.exe[^0-9a-zA-Z]/
+/\\",Update/
+/\\\\Network\\\\/
+/[^0-9a-zA-Z]%ws_out%ws[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Extracting files to %s folder\$Extracting files to temporary folder[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]GETPASSWORD1[^0-9a-zA-Z]/
+/Neo,welcome to the desert of real\./
+/[^0-9a-zA-Z]\\\\Libraries\\\\fireeye\.vbs&[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]mailto:Mohammed\.sarah@gratner\.com[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]mailto:Tarik\.Imam@gartner\.com[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]2dy53My5vcmcvMjAw[^0-9a-zA-Z]/
+/NetC\.exe/
+/NetScp/
+/Network Connectivity Module/
+/OSPPSVC/
+/\[Alt\]/
+/<< %s >>:/
+/ABC \( A Big Company \)/
+/NetC\.exe/
+/NetScp/
+/Network Connectivity Module/
+/OSPPSVC/
+/\[Alt\]/
+/<< %s >>:/
+/[^0-9a-zA-Z]ABC \( A Big Company \)[^0-9a-zA-Z]/
+/NTLM/
+/spanned more than 100 years and ruined three consecutive/
+/[^0-9a-zA-Z]https://www\.baidu\.com/s\?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=ip138[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]CloudRun\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]SaberSvcB\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]SaberSvc\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]SaberSvcW\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]tianshiyed@iaomaomark1#23mark123tokenmarkqwebjiuga664115[^0-9a-zA-Z]/
+/SaberSvc\.exe/
+/[^0-9a-zA-Z]BBB\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]AAA\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]NXKILL[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]localspn\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]NTscan\.EXE[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]NTscan Microsoft [^0-9a-zA-Z]/
+/[^0-9a-zA-Z]BitLocker\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]SERVICECORE[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]SHARECONTROL[^0-9a-zA-Z]/
+/msacm32\.drv/
+/C:\\\\Windows\\\\Explorer\.exe/
+/Elevation:Administrator!/
+/[^0-9a-zA-Z]pip creat failed[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]are you there\? [^0-9a-zA-Z]/
+/[^0-9a-zA-Z]success kill process ok[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Vista\|08\|Win7[^0-9a-zA-Z]/
+/<0x02>/
+/\[CTR-BRK\]/
+/\[/WIN\]/
+/\[%\.3u\] %s %s %s \[%s:/
+/%s\\\\\{%s\}\\\\%s/
+/@@E0020\(%d\)/
+/exit.{0,3}@exit.{0,3}new.{0,3}query.{0,3}rcz.{0,3}scz/
+/---###---/
+/---@@@---/
+/[^0-9a-zA-Z]Set-Cookie:\\\\b\*\{\.\+\?\}\\\\n[^0-9a-zA-Z]/
+/KDSTORAGE/
+/KDSTORAGE_64/
+/KDRUNDRV32/
+/KDRAR/
+/ZxWinDeffContex/
+/Paramore756Contex43/
+/Zw_&one@ldrContext43/
+/[^0-9a-zA-Z]helpldr\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]swma\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]iomus\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]atiml\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]hlpuctf\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]hauthuid\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]rbcon\.ini[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%02d\.%02d\.%02d_%02d\.%02d\.%02d\.%02d\.rem[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Resent[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]ocp8\.1[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]KDLLCFX[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]KDLLRUNDRV[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]WUAUCLT\.EXE[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Microsoft Corporation\. All rights reserved\.[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Microsoft Windows Operating System[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Microsoft\(R\) Windows\(R\) Operating System[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]msupdate\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]msupdater32\.exe[^0-9a-zA-Z]/
+/_msupdate_/
+//kies/
+/[^0-9a-zA-Z]msupdate\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]msupdate[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Microsoft Corporation\. All rights reserved\.[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Automatic Updates[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]atapi\.sys[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]disk\.sys[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]5\.2\.3790\.0 \(srv03_rtm\.030324-2048\)[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]usbclass[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Universal Serial Bus Class Driver[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]5\.2\.3790\.0[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]LSA Shell[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\\\\\\?\\\\UNC[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%ls%ls[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\SYSTEMROOT\\\\system32\\\\lsass\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]atapi\.sys[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]disk\.sys[^0-9a-zA-Z]/
+/\\\\REGISTRY\\\\Machine\\\\System\\\\CurrentControlSet\\\\Control\\\\Session Manager/
+/[^0-9a-zA-Z]Service Pack x[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\REGISTRY\\\\MACHINE\\\\SOFTWARE\\\\Microsoft\\\\Windows NT\\\\CurrentVersion[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\REGISTRY\\\\Machine\\\\Software\\\\Microsoft\\\\Windows NT\\\\CurrentVersion\\\\HotFix[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]mntoskrnl\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\REGISTRY\\\\Machine\\\\System\\\\CurrentControlSet\\\\Control\\\\Session Manager\\\\Memory Management[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Memory location: 0x%p, size 0x%08x[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Service Pack[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\.sys[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\REGISTRY\\\\Machine\\\\Software\\\\Microsoft\\\\Updates[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]RtlGetVersion[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]MaximumPortsServiced[^0-9a-zA-Z]/
+/\\\\REGISTRY\\\\Machine\\\\System\\\\CurrentControlSet\\\\Control\\\\Session Manager/
+/[^0-9a-zA-Z]ConnectMultiplePorts[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\SYSTEMROOT[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]d%ls%ls[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\\\\\\?\\\\UNC[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Software\\\\Microsoft\\\\Windows\\\\CurrentVersion[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\\\\\\?\\\\UNC\\\\[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]SYSTEM\\\\CurrentControlSet\\\\Control\\\\Class\\\\\{4D36E972-E325-11CE-BFC1-08002BE10318\}[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]System\\\\CurrentControlSet\\\\Services\\\\Tcpip\\\\Linkage[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\\\\\\.\\\\Global\\\\%s[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]temp[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\\\\\\.\\\\%s[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Memory location: 0x%p, size 0x%08x[^0-9a-zA-Z]/
+/Name:/
+/cmd\.exe/
+/ping\.exe/
+/%S\\\\ipc\$/
+/IP_PADDING_DATA/
+/PORT_NUM/
+/[^0-9a-zA-Z]LogonUI\.exe[^0-9a-zA-Z]/
+/FindFirstFile/i
+/FindNextFile/i
+/FindResource/i
+/LoadResource/i
+/[^0-9a-zA-Z]adobeincorp\.com[^0-9a-zA-Z]/
+/User-Agent: Mozilla/5\.0 \(Windows NT 6\.2; WOW64; rv:20\.0\) Gecko/20100101 Firefox//
+/User-Agent: Mozilla/5\.0 \(Windows NT 6\.; WOW64; rv:20\.0\) Gecko/20100101 Firefox/2/
+/[^0-9a-zA-Z]C:\\\\Windows\\\\System32\\\\cmd\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]ASijnoKGszdpodPPiaoaghj8127391[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]svchost\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]clconfig\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]ASLIiasiuqpssuqkl713h[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]HPSSOEx\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]255\.255\.255\.254[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]SOFTWARE\\\\SsoAuth\\\\Service[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]kerberos32\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]mshtaex\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\SystemRoot\\\\System32\\\\hal\.dll[^0-9a-zA-Z]/
+/\\\\\\\\\.\\\\STORAGE#Volume#_\?\?_USBSTOR#Disk&Ven_Kingston&Prod_DataTraveler_2\.0&Rev_PMAP#5B6B098B97BE&0#\{53f56307-b6bf-11d0-94f2-00a0c/
+/[^0-9a-zA-Z]SHELL32\.DLL\.ASLR\.[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]~WTR4141\.tmp[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]~WTR4132\.tmp[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]totalcmd\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]wincmd\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\{%08x-%08x-%08x-%08x\}[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]MRxCls\.sys[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]MRXNET\.Sys[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%SystemRoot%\\\\system32\\\\Drivers\\\\mrxsmb\.sys;%SystemRoot%\\\\system32\\\\Drivers\\\\\*\.sys[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]<Actions Context=\\"%s\\"><Exec><Command>%s</Command><Arguments>%s,#%u</Arguments></Exec></Actions>[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%SystemRoot%\\\\inf\\\\oem7A\.PNF[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%SystemRoot%\\\\inf\\\\mdmcpq3\.PNF[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%SystemRoot%\\\\inf\\\\oem6C\.PNF[^0-9a-zA-Z]/
+/@abf varbinary\(4096\) EXEC @hr = sp_OACreate 'ADODB\.Stream', @aods OUT IF @hr <> 0 GOTO endq EXEC @hr = sp_OASetProperty @/
+/[^0-9a-zA-Z]STORAGE#Volume#1&19f7e59c&0&[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]S7HKIMDX\.DLL[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]PowerShadow2011[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]adbrowser[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]update\.hancominc\.com[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]nKERNEL32\.DLL[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]WUSER32\.DLL[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]mscoree\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%d\|%s\|%04d/%02d/%02d %02d:%02d:%02d\|%ld\|%d[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]HttpBrowser/1\.0[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\config\.ini[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]r%\.\*s\(%d\)%s[^0-9a-zA-Z]/
+/[^0-9a-zA-Z] %s CRC [^0-9a-zA-Z]/
+/dcomnetsrv\.cpp/
+/http://\*:80/W3SVC//
+/https://\*:443/W3SVC//
+/[^0-9a-zA-Z]msimghlp\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]srservice[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]MSIMGHLP\.DLL[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]MSXIML\.DLL[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]greensky27\.vicp\.net[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]serch\.vicp\.net[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]greensky27\.vicp\.net[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]greensky27\.vicp\.net\.as[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]greensky27\.vcip\.net[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]pnoc-ec\.vicp\.net[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]aseanph\.vicp\.net[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]pnoc\.vicp\.net[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]dMozilla/4\.0 \(compatible; MSIE 6\.0;Windows NT 5\.0; \.NET CLR 1\.1\.4322\)[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Accept-Language:En-us/r/n[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Office Start\.lnk[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\MSN Talk Start\.lnk[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Mozilla/4\.0 \(compatible; MSIE 6\.0; Windows NT 5\.0; \.NET CLR 1\.1\.4322\)[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%USERPROFILE%\\\\Application Data\\\\Mozilla\\\\Firefox\\\\Profiles[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Content-Type:application/x-www-form-urlencoded/r/n[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Hello World![^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Accept-Encoding:gzip,deflate/r/n[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%02d-%02d-%02d %02d:%02d[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]WininetMM Version 1\.0[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]WININETMM[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]DRIVE_RAMDISK[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\MSN Talk Start\.lnk[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]:SeDebugPrivilege[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]WinMM Version 1\.0[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\*Can't Get[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Software\\\\Microsoft\\\\Windows\\\\CurrentVersion\\\\explorer\\\\User Shell Folders[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]network\.proxy\.ssl[^0-9a-zA-Z]/
+/fuckMessageBox 1\.0/
+/Rundll 1\.0/
+/SLServer/
+/[^0-9a-zA-Z]LiveUpdater\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%d -> %d \(default\)[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%s%s%s=%d,%s=%d,%s=%d,[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]UPDATE_ID[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]2008R2[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%02d\.%04d\.%s[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]rundll32\.exe \\"%s\\",#1[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]IgfxUpt\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Intel\(R\) Common User Interface[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%s%s%s=%d,%s=%d,%s=%d,[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Intel Integrated Graphics Updater[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\"http://fw\.ddosprotected\.eu:80 /opts resolv=drfx\.chickenkiller\.com\\"[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]LiveUpdater\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%d -> %d \(default\)[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%s%s%s=%d,%s=%d,%s=%d,[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Acer LiveUpdater[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]rundll32\.exe \\"%s\\",#1[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]RtlUpd\.EXE[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]RtlUpd\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Driver Update and remove for Windows x64 or x86_32[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Realtek HD Audio Update and remove driver Tool[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%s%s%s=%d,%s=%d,%s=%d,[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]LiveUpdater\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%d -> %d \(default\)[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%s%s%s=%d,%s=%d,%s=%d,[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%02d\.%04d\.%s[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]mshtaex\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Error executing CreateProcess\(\)!![^0-9a-zA-Z]/
+/[^0-9a-zA-Z]cmdcmdline[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Process %d terminated[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Process is not running any more[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]javacpl\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Windows NT Version %lu\.%lu[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Usage: destination \[reference\][^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\.com;\.exe;\.bat;\.cmd[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]cmdextversion[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Invalid pid \(%s\)[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\"%s\\" /K %s[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Error setting %s \(%s\)[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Failed to build full directory path[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%-8s %-3s  %\*s %s  %s[^0-9a-zA-Z]/
+/[^0-9a-zA-Z] %%%c in \(%s\) do [^0-9a-zA-Z]/
+/[^0-9a-zA-Z]http://get\.adobe\.com/flashplayer/[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]xxxxxxxxxxxxxxxxxxxx[^0-9a-zA-Z]/
+/[^0-9a-zA-Z] Player Installer/Uninstaller[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Adobe Flash Plugin Updater[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]uSOFTWARE\\\\Adobe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]2008R2[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%02d\.%04d\.%s[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%d -> %d[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]mshtaex\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]javacpl\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Error executing CreateProcess\(\)!![^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Process is not running any more[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Windows NT Version %lu\.%lu[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Usage: destination \[reference\][^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\.com;\.exe;\.bat;\.cmd[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]cmdextversion[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Invalid pid \(%s\)[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\"%s\\" /K %s[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Error setting %s \(%s\)[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]cmdcmdline[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Driver\\\\nsiproxy[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Device\\\\StreamPortal[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Device\\\\PNTFILTER[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\BaseNamedObjects\\\\_transmition_synchronization_[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Winqual\.sys[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Registry\\\\Machine\\\\SYSTEM\\\\CurrentControlSet\\\\Control\\\\Class\\\\\{4D36E972-E325-11CE-BFC1-08002BE10318\}[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Registry\\\\User\\\\%s\\\\Software\\\\Microsoft\\\\Windows\\\\CurrentVersion\\\\Internet Settings[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\\\\\\.\\\\pipe\\\\usbpcex%d[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\\\\\\.\\\\pipe\\\\usbpcg%d[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Registry\\\\Machine\\\\SYSTEM\\\\CurrentControlSet\\\\Control\\\\WMI[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\\?\?\\\\pipe\\\\usbpcg%d[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\\?\?\\\\pipe\\\\usbpcex%d[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Registry\\\\Machine\\\\System\\\\CurrentControlSet\\\\Control\\\\Class\\\\\{4D36E972-E325-11CE-BFC1-08002BE10318\}\\\\[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Port Layer[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\BaseNamedObjects\\\\\{93144EB0-8E3E-4591-B307-8EEBFE7DB28E\}[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Ndi\\\\Interfaces[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Device\\\\\{93144EB0-8E3E-4591-B307-8EEBFE7DB28F\}[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\BaseNamedObjects\\\\EKV0000000000[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Proxies destination address/port for TCP[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Device\\\\StreamPortal[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Transport-Data Proxy Sub-Layer[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\BaseNamedObjects\\\\_transmition_synchronization_[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]NTOSKRNL\.EXE[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]NTSuser\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]107\.6\.181\.116[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]woolger[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]index\.php\?c=%S&r=%x&u=1&t=%S[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Content-Type: multipart/form-data; boundary=%S[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]index\.php\?c=%S&r=%x[^0-9a-zA-Z]/
+/mitb\.poisonAnchor/
+/this\.request\(this\.httpproto/
+/beef\.logger\.get_dom_identifier/
+/return \(!!window\.opera/
+/history\.pushState\(\{ Be:\\"EF\\" \}/
+/window\.navigator\.userAgent\.match\(/Opera\\\\/9\\\\\.80\.\*Version\\\\/10\\\\\./\)/
+/window\.navigator\.userAgent\.match\(/Opera\\\\/9\\\\\.80\.\*Version\\\\/11\\\\\./\)/
+/window\.navigator\.userAgent\.match\(/Avant TriCore/\)/
+/window\.navigator\.userAgent\.match\(/Iceweasel/
+/mitb\.sniff\(/
+/Method XMLHttpRequest\.open override/
+/\.browser\.hasWebSocket/
+/\.mitb\.poisonForm/
+/resolved=require\.resolve\(file,cwd\|\|/
+/if \(document\.domain == domain\.replace\(/\(\\\\r\\\\n\|\\\\n\|\\\\r\)/gm/
+/beef\.net\.request/
+/uagent\.search\(engineOpera\)/
+/mitb\.sniff/
+/beef\.logger\.start/
+/<br>UserName&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: /
+/<br>PC&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: /
+/<br>OS&nbsp;Full&nbsp;Name&nbsp;&nbsp;: /
+/<br>OS&nbsp;Platform&nbsp;&nbsp;&nbsp;: /
+/<br><span style=font-style:normal;text-decoration:none;text-transform:none;color:#FF0000;><strong>\[clipboard\]</strong></span>/
+/533D9226E4C1CE0A9815DBEB19235AE4/
+/X-TS-Rule-Name: %s/
+/X-TS-Rule-PatternID: %u/
+/X-TS-BotID: %s/
+/X-TS-Domain: %s/
+/X-TS-SessionID: %s/
+/X-TS-Header-Cookie: %S/
+/X-TS-Header-Referer: %S/
+/X-TS-Header-AcceptEncoding: %S/
+/X-TS-Header-AcceptLanguage: %S/
+/X-TS-Header-UserAgent: %S/
+/_hvnc_init@4/
+/_hvnc_uninit@0/
+/_hvnc_start@8/
+/_hvnc_stop@0/
+/_hvnc_wait@0/
+/_hvnc_work@0/
+/nspr4\.dll/
+/nss3\.dll/
+/chrome\.dll/
+/Internet Explorer/
+/Firefox/
+/Chrome/
+/533D9226E4C1CE0A9815DBEB19235AE4/
+/D19FC0FB14BE23BCF35DA427951BB5AE/
+/url_loader=%S/
+/url_webinjects=%S/
+/url_tokenspy=%S/
+/file_webinjects=%S/
+/moneyparser\.enabled=%u/
+/enable_luhn10_post=%u/
+/insidevm_enable=%u/
+/disable_antivirus=%u/
+/ST234LMUV56CklAopq78Brstuvwxyz01NOPQRmGHIJKWXYZabcdefgDEFhijn9\+//
+/000004b0/
+/Microsoft Corporation/
+/[^0-9a-zA-Z]SELECT \* FROM Win32_Process[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]CurrentVersion\\\\Uninstall\\\\avast[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]SOFTWARE\\\\Microsoft\\\\Windows\\\\CurrentVersion\\\\[^0-9a-zA-Z]/
+//c ping -n 1 www\.google/
+/Coded by BRIAN KREBS for personal use only\. I love my job & wife/
+/nss3\.dll/
+/\\\\unknow\.zip/
+/HarvesterSocksBot\.Properties\.Resources/
+/[^0-9a-zA-Z]Java Security Plugin[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%s\\\\%s\\\\%s\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Sun Java Security Plugin[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Internet Explorer\\\\iexplore\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]PowerShellRunner\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Micorsoft Corportation[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]IM Monnitor Service[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]imemonsvc\.dll[^0-9a-zA-Z]/
+/Registered trademarks and service marks are the property of their respec/
+/This program attempts to bypass Windows 7's default UAC settings to run /
+/Run the command normally \(without code injection\)/
+/[^0-9a-zA-Z]Inject file copy && elevate command[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]http://www\.pretentiousname\.com/misc/win7_uac_whitelist2\.html[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]For injection, pick any unelevated Windows process with ASLR on:[^0-9a-zA-Z]/
+/\\\\cmd\.exe/
+/runas/
+/explorer\.exe/
+/Couldn't load kernel32\.dll/
+/CRYPTBASE\.dll/
+/shell32\.dll/
+/[^0-9a-zA-Z]UACMe injected, Fubuki at your service\.[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%temp%\\\\Hibiki\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\[UCM\] Cannot write to the target process memory\.[^0-9a-zA-Z]/
+/%systemroot%\\\\system32\\\\cmd\.exe/
+/D:\(A;;GA;;;WD\)/
+/[^0-9a-zA-Z]%systemroot%\\\\system32\\\\sysprep\\\\sysprep\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]/c wusa %ws /extract:%%windir%%\\\\system32[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]MSVCR120D\.dll[^0-9a-zA-Z]/
+/%systemroot%\\\\system32\\\\cmd\.exe/
+/SeTcbPrivilege/
+/winsta0\\\\default/
+/Ezcob/
+/[^0-9a-zA-Z]Wizard\.EXE[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Browser\.EXE[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]ebai\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Origina[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]k\.conectionapis\.com[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]key=%s&host_name=%s&cpu_count=%d&os_type=%s&core_count=%s[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]id=%d&result=%s[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]rtime[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]down[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]cmd[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]0 \*/6 \* \* \* root[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]/etc/cron\.d/httpsd[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]cat /proc/cpuinfo \|grep processor\|wc -l[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]k\.conectionapis\.com[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]/api[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]/tmp/\.httpslog[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]/bin/\.httpsd[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]/tmp/\.httpsd[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]/tmp/\.httpspid[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]/tmp/\.httpskey[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]CCmdTarget[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]CUserException[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]FileType[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]FlsGetValue[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]AVCShellWrapper@@[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]AVCCmdTarget@@[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]AUCThreadData@@[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]AVCUserException@@[^0-9a-zA-Z]/i
+/Insta11 Microsoft/
+/\\\\globalroot\\\\systemroot\\\\system32\\\\tasks\\\\/
+/<RunLevel>HighestAvailable</RunLevel>/
+/Microsoft-Windows-Security-Auditing/
+/4688/
+/Windows\\\\System32\\\\regsvr32\.exe/
+/Microsoft-Windows-Security-Auditing/
+/4689/
+/Windows\\\\System32\\\\mshta\.exe/
+/Microsoft-Windows-Security-Auditing/
+/4689/
+/Windows\\\\System32\\\\WindowsPowerShell\\\\v1\.0\\\\powershell\.exe/
+/Microsoft-Windows-Security-Auditing/
+/4689/
+/Windows\\\\System32\\\\wbem\\\\WmiPrvSE\.exe/
+/\\\\DbxUpdateET\\\\/
+/\\\\DbxUpdateBT\\\\/
+/\\\\DbxUpdate\\\\/
+/IconCacheEt\.dat/
+/IconConfigEt\.dat/
+/\\x00\\x00ERXXXXXXX\\x00\\x00/
+/\\x00\\x00111\\x00\\x00/
+/\\x00\\x00ETUN\\x00\\x00/
+/\\x00\\x00ER\\x00\\x00/
+/[^0-9a-zA-Z]/bin/busybox rm[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]/bin/busybox echo[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]/bin/busybox wget[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]/bin/busybox tftp[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]/bin/busybox cp[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]/bin/busybox chmod[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]/bin/busybox cat[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]/bin/busybox rm[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]/bin/busybox echo[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]/bin/busybox wget[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]/bin/busybox tftp[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]/bin/busybox cp[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]/bin/busybox chmod[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]/bin/busybox cat[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]tftp -r satori[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]/bins/satori[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]satori[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]SATORI[^0-9a-zA-Z]/i
+/\\\\RECYCLER\\\\/
+/%temp%/
+/%systemroot%\\\\system32\\\\cmd\.exe/
+/svchost\.exe/
+/lsass\.exe/
+/csrss\.exe/
+/winlogon\.exe/
+/%appdata%/
+/%programdata%/
+/%localappdata%/
+/\.cpl/
+/[^0-9a-zA-Z]SecureInput \.exe[^0-9a-zA-Z]/
+/\\\\Control\\\\zxplug/i
+/http://www\.facebook\.com/comment/update\.exe/
+/Shared a shell to %s:%s Successfully/i
+/[^0-9a-zA-Z]TSULoader\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\StringFileInfo\\\\%04x%04x\\\\Arguments[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Tsu%08lX\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]fftp\.cfg[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\*FTP thread exit\*[^0-9a-zA-Z]/
+/maxusers=/
+/[^0-9a-zA-Z]\[ftpconfig\][^0-9a-zA-Z]/
+/[^0-9a-zA-Z]accs=readonly[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\[anonymous\][^0-9a-zA-Z]/
+/[^0-9a-zA-Z]accs=[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]pswd=[^0-9a-zA-Z]/
+/shutdowncomputer/
+/shutdown -r -t 00/
+/blockmouseandkeyboard/
+/FileManagerSplit/
+/\|\*\|123xXx\(Mutex\)xXx321\|\*\|6-21-2014-03:06PM/
+/[^0-9a-zA-Z]Download Excute[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Device\\\\CNG[^0-9a-zA-Z]/
+/JPEG error #%d/
+/Cannot assign a %s to a %s/
+/CurrentControlSet\\\\Control\\\\Keyboard Layouts\\\\/
+/[^0-9a-zA-Z]Application Impact Telemetry Static Analyzer[^0-9a-zA-Z]/
+/sys_write/i
+/sys_getdents/i
+/sys_getdents64/i
+/sys_getpgid/i
+/sys_getsid/i
+/sys_setpgid/i
+/sys_kill/i
+/sys_tgkill/i
+/sys_tkill/i
+/sys_sched_setscheduler/i
+/sys_sched_setparam/i
+/sys_sched_getscheduler/i
+/sys_sched_getparam/i
+/sys_sched_setaffinity/i
+/sys_sched_getaffinity/i
+/sys_sched_rr_get_interval/i
+/sys_wait4/i
+/sys_waitid/i
+/sys_rt_tgsigqueueinfo/i
+/sys_rt_sigqueueinfo/i
+/sys_prlimit64/i
+/sys_ptrace/i
+/sys_migrate_pages/i
+/sys_move_pages/i
+/sys_get_robust_list/i
+/sys_perf_event_open/i
+/sys_uname/i
+/sys_unlink/i
+/sys_unlikat/i
+/sys_rename/i
+/sys_read/i
+/kobject_del/i
+/list_del_init/i
+/inet_ioctl/i
+/set_fs_root/i
+/set_fs_pwd/i
+/__virt_addr_valid/i
+/init_task/i
+/init_fs/i
+/bad_file_ops/i
+/bad_file_aio_read/i
+/security_ops/i
+/default_security_ops/i
+/audit_enabled/i
+/commit_creds/i
+/prepare_kernel_cred/i
+/ptmx_fops/i
+/node_states/i
+/dlopen/i
+/dlsym/i
+/fopen/i
+/fopen64/i
+/__fxstat/i
+/__fxstat64/i
+/accept/i
+/__lxstat/i
+/__lxstat64/i
+/open/i
+/rmdir/i
+/__xstat/i
+/__xstat64/i
+/unlink/i
+/unlikat/i
+/fdopendir/i
+/opendir/i
+/readdir/i
+/readdir64/i
+/82e999fb-a6e0-4094-aa1f-1a306069d1a5/i
+/4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRy5YeFCqgoUMnzumvS/i
+/barjuok\.ryongnamsan\.edu\.kp/i
+/C:\\\\SoftwaresInstall\\\\soft/i
+/C:\\\\Windows\\\\Sys64\\\\intelservice\.exe/i
+/C:\\\\Windows\\\\Sys64\\\\updater\.exe/i
+/C:\\\\Users\\\\Jawhar\\\\documents\\\\/i
+/[^0-9a-zA-Z]\\\\tempvxd\.vxd\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\UserProfile\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%s--%s[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Run File Success![^0-9a-zA-Z]/
+/[^0-9a-zA-Z]DRIVE_REMOTE[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]ProxyEnable[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\cmd\.exe[^0-9a-zA-Z]/
+/Device Protect ApplicatioN/
+/beep\.sys/
+/BEEP Driver/
+/NSFreeDll/
+/\.aspack/
+/\.adata/
+/ASPack/
+/\.ASPack/
+/\.ccg/
+/BitArts/
+/DAStub/
+/!EPack/
+/FSG!/
+/kkrunchy/
+/\.mackt/
+/\.MaskPE/
+/MEW/
+/\.MPRESS1/
+/\.MPRESS2/
+/\.neolite/
+/\.neolit/
+/\.nsp1/
+/\.nsp2/
+/\.nsp0/
+/nsp0/
+/nsp1/
+/nsp2/
+/\.packed/
+/pebundle/
+/PEBundle/
+/PEC2TO/
+/PECompact2/
+/PEC2/
+/pec1/
+/pec2/
+/PEC2MO/
+/PELOCKnt/
+/\.perplex/
+/PESHiELD/
+/\.petite/
+/ProCrypt/
+/\.RLPack/
+/RCryptor/
+/\.RPCrypt/
+/\.sforce3/
+/\.spack/
+/\.svkp/
+/Themida/
+/\.Themida/
+/\.packed/
+/\.Upack/
+/\.ByDwing/
+/UPX0/
+/UPX1/
+/UPX2/
+/\.UPX0/
+/\.UPX1/
+/\.UPX2/
+/\.vmp0/
+/\.vmp1/
+/\.vmp2/
+/VProtect/
+/WinLicen/
+/WWPACK/
+/\.yP/
+/\.y0da/
+/UPX!/
+/[^0-9a-zA-Z]www\.thepiratebay\.org[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Mozilla/4\.0 \(compatible; MSIE 7\.0; Windows NT 5\.2; SV1\)[^0-9a-zA-Z]/
+/\\\\drivercashe\\\\/
+/\\\\microsoft\\\\windwos\\\\/
+/\\\\DosDevices\\\\LOADHIDDENDRIVER/
+/\\\\Device\\\\LOADHIDDENDRIVER/
+/Global\\\\state_maping/
+/Global\\\\unInstall_event_1554_Ower/
+/[^0-9a-zA-Z]/usr/bin/python[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]nameserver 8\.8\.8\.8\\nnameserver 8\.8\.4\.4\\n[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]Telnet Range %d->%d[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]Mirai Range %d->%d[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]\[Updating\] \[%s:%s\][^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]rm -rf /tmp/\* /var/\* /var/run/\* /var/tmp/\*[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]\\x1B\[96m\[DEVICE\] \\x1B\[97mConnected[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]MIRAITEST[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]TELNETTEST[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]UPDATE[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]PHONE[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]RANGE[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]KILLATTK[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]STD[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]BCM[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]NETIS[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]FASTLOAD[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]vulcan\.sh[^0-9a-zA-Z]/i
+/[^0-9a-zA-Z]Vulcan[^0-9a-zA-Z]/i
+/_Rm\.bat/
+/try\\x0d\\x0a\\x09\\x09\\x09\\x09  del %s/
+/Ext\.org/
+/base\.dll/
+/base\.dll/
+/Config loaded/
+/Config parsed/
+/storage uploader/
+/updater/
+/keylogger/
+/Screenshot/
+/sqlite found & start collectiong data/
+/Machine info collected/
+/browser ok/
+/messenger ok/
+/vpn ok/
+/ftp client ok/
+/ftp server ok/
+/rdp ok/
+/kerio ok/
+/skype ok/
+/serialize data ok/
+/Keylogged/
+/test123/
+/test456/
+/test789/
+/testdomain\.com/
+/ping -n 30 127\.0\.0\.1 >nul/
+/[^0-9a-zA-Z]\\\\\?\?\\\\%s\\\\System32\\\\%s\.exe[^0-9a-zA-Z]/
+/IWHBWWHVCIDBRAFUASIIWURRTWRTIBIVJDGWTRRREFDEAEBIAEBJGGCSVUHGVJUHADIEWAFGWADRUWDTJBHTSITDVVBCIDCWHRHVTDVCDESTHWSUAEHGTWTJWFIRTBRB/
+/[^0-9a-zA-Z]UFWYNYNTS[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\\\\\\?\\\\ElRawDisk[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]g\\\\system32\\\\[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]ztvttw[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]IUTLOM[^0-9a-zA-Z]/
+/\\\\#\{9A6DB7D2-FECF-41ff-9A92-6EDA696613DF\}#/
+/\\\\#\{8A6DB7D2-FECF-41ff-9A92-6EDA696613DE\}#/
+/[^0-9a-zA-Z]RawDiskSample\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]RawDisk Driver\. Allows write access to files and raw disk sectors for user mode applications in Windows 2000 and later\.[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]elrawdsk\.sys[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\DosDevices\\\\ElRawDisk[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]listen above[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]familycould cost[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]USER_PRIV_GUEST[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]USER_PRIV_ADMIN[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]USER_PRIV_USER[^0-9a-zA-Z]/
+/lsass\.exe/
+/nView_DiskLoydb/
+/nView_KeyLoydb/
+/nView_skins/
+/UsbLoydb/
+/%sBurn%s/
+/soul/
+/\\x00_Remote_\\x00/
+/_Gt_Remote_/
+/%sBurn\\\\workdll\.tmp/
+/Dtl\.dat/
+/utd_CE31/
+/pages\.touchpadz\.com/i
+/bat\.touchpadz\.com/i
+/stat\.touchpadz\.com/i
+/sk2\.touchpadz\.com/i
+/\.pyc/i
+/__module__/i
+/<module>/i
+/import Ts/i
+/def ts_/i
+/TS_cnames\.py/i
+/TRICON/i
+/TriStation /i
+/ chassis /i
+/GetCpStatus/i
+/ts_/
+/ sequence/i
+/import Ts(Hi|Low|Base)[^:alpha:]/i
+/module\s?version/i
+/bad /i
+/prog_cnt/i
+/TsBase\.py/i
+/\.TsBase\(/i
+/TsHi\.py/i
+/keystate/i
+/GetProjectInfo/i
+/GetProgramTable/i
+/SafeAppendProgramMod/i
+/\.TsHi\(/i
+/TsLow\.py/i
+/print_last_error/i
+/\.TsLow\(/i
+/tcm_/
+/ TCM found/i
+/crc\.pyc/i
+/CRC16_MODBUS/
+/Kotov Alaxander/i
+/CRC_CCITT_XMODEM/
+/crc16ret/
+/CRC16_CCITT_x1D0F/
+/CRC16_CCITT[^_]/
+/sh\.pyc/i
+/ FAILURE/
+/symbol table/i
+/inject\.bin/i
+/imain\.bin/i
+/skype\.dat/
+/skype\.ini/
+/YIWEFHIWQ/
+/MyDesktop/
+/IDI_ICON5/
+/C:\\\\WINDOWS\\\\system32\\\\sysprep\\\\cryptbase\.dll/
+/ProbeScriptFint/
+//c ping -n 2 127\.0\.0\.1 & del \\"SysScan\.exe\\"/
+/SysScan DEBUG Mode!!!/
+/This rechecking\? \(set 0/1 or press enter key\)/
+/http://37\.49\.224\.144:8189/manual_result/
+/Checker end work!/
+/Trying send result\.\.\./
+/SysScan\.exe/i
+/a\.exe/
+/Can anyone test/
+/I m in computer class now/
+/test335\.txt/
+/Keystrokes/
+/Screenshots/
+/SYSOCMGR\.EXE/
+/System stand-alone Optional Component Manager/
+/Lacy\.exe/
+/Bldg Chive Duel Rip Query/
+/z:\\\\Slender\\\\mozart\\\\mozart\\\\Release\\\\mozart\.pdb/i
+/NCR SelfServ Platform Remote Monitor/i
+/read_this_file\.txt/
+/[^0-9a-zA-Z]schtasks /Create /SC ONCE /TN viserion_%u /RU SYSTEM /TR \\"%ws\\" /ST %02d:%02d:00[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]dispci\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\\\\\\.\\\\GLOBALROOT\\\\ArcName\\\\multi\(0\)disk\(0\)rdisk\(0\)partition\(1\)[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Enter password#1: [^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Enter password#2: [^0-9a-zA-Z]/
+/[^0-9a-zA-Z]C:\\\\Windows\\\\cscc\.dat[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]schtasks /Delete /F /TN %ws[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\AppData[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Readme\.txt[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Disk decryption completed[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Files decryption completed[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]http://diskcryptor\.net/[^0-9a-zA-Z]/
+/\.3ds\.7z\.accdb\.ai\.asm\.asp\.aspx\.avhd\.back\.bak\.bmp\.brw\.c\.cab\.cc\.cer\.cfg\.conf\.cpp\.crt\.cs\.ctl\.cxx\.dbf\.der\.dib\.disk\.djvu\.doc\.docx\.dwg\./
+/[^0-9a-zA-Z]Disable your anti-virus and anti-malware programs[^0-9a-zA-Z]/
+/CompanyName/
+/ProductVersion/
+/IDR_VERSION1/
+/LookFor/
+/VS_VERSION_INFO/
+/2\.0\.1\.0/
+/C:\\\\lZbvnoVe\.exe/
+/2\.0\.1\.7/
+/ProductVersion/
+/IDR_VERSION1/
+/VFileInfo/
+/LookFor/
+/FFFF04E3/
+/Mark Russinovich/
+/RegCreateKeyW/i
+/[^0-9a-zA-Z]\\\\\\\\192\.168\.56\.20\\\\IPC\$[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\\\\\172\.16\.99\.5\\\\IPC\$[^0-9a-zA-Z]/
+/WanaCrypt0r/
+/WNCRYT/
+/[^0-9a-zA-Z]MIIBCgKCAQEAxP/VqKc0yLe9JhVqFMQGwUITO6WpXWnKSNQAYT0O65Cr8PjIQInTeHkXEjfO2n2JmURWV/uHB0ZrlQ/wcYJBwLhQ9EqJ3iDqmN19Oo7NtyEUmbYmopcqYLIBZzQ2ZTK0A2DtX4GRKxEEFLCy7vP12EYOPXknVy/mf0JFWixz29QiTf5oLu15wVLONCuEibGaNNpgqCXsPwfITDbDDmdrRIiUEUw6o3pt5pNOskfOJbMan2TZu[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\.3ds\.7z\.accdb\.ai\.asp\.aspx\.avhd\.back\.bak\.c\.cfg\.conf\.cpp\.cs\.ctl\.dbf\.disk\.djvu\.doc\.docx\.dwg\.eml\.fdb\.gz\.h\.hdd\.kdbx\.mail\.mdb\.msg\.nrg\.ora\.ost\.ova\.ovf\.pdf\.php\.pmf\.ppt\.pptx\.pst\.pvi\.py\.pyc\.rar\.rtf\.sln\.sql\.tar\.vbox\.vbs\.vcb\.vdi\.vfd\.vmc\.vmdk\.vmsd\.vmx\.vsdx\.vsv\.work\.xls[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]wowsmith123456posteo\.net\.[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]BX-Proxy-Manual-Auth[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]X-HTTP-Attempts[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]@CommandLineMode[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]X-Retry-After[^0-9a-zA-Z]/
+/Bolonyokte/
+/donadoni/
+/nyse\.com/
+/NYSEArca_Listing_Fees\.pdf/
+/bf13-5d45cb40/
+/Backup\.zip/
+/updates\.txt/
+/vdirs\.dat/
+/Internet Banking/
+/en ligne/
+/bancaires/
+/\(eBanking\)\|\(Ebanking\)/
+/Anmeldung/
+/internet banking/i
+/Banking Online/i
+/Web Banking/
+/(#)BOT#OpenUrl/
+/(#)BOT#Ping/
+/(#)BOT#RunPrompt/
+/(#)BOT#SvrUninstall/
+/(#)BOT#URLDownload/
+/(#)BOT#URLUpdate/
+/(#)BOT#VisitUrl/
+/(#)BOT#CloseServer/
+/(D)DOSHTTPFLOOD/
+/(D)DOSSYNFLOOD/
+/(D)DOSUDPFLOOD/
+/(A)ctiveOnlineKeylogger/
+/(U)nActiveOnlineKeylogger/
+/(A)ctiveOfflineKeylogger/
+/(U)nActiveOfflineKeylogger/
+/(A)CTIVEREMOTESHELL/
+/(S)UBMREMOTESHELL/
+/(K)ILLREMOTESHELL/
+/MUTEXNAME/
+/NETDATA/
+/         \(\(\(\(\(                  H/
+/wrapper3/
+/wrapper3 Version 1\.0/
+/         \(\(\(\(\(                  H/
+/wrapper3/
+/wrapper3 Version 1\.0/
+/Start finging of LAN hosts\.\.\./
+/Finding was fault\. Unexpective error/
+/Was found %i hosts in LAN:/
+/Hosts was't found\./
+/Start finging of OPC Servers\.\.\./
+/Was found %i OPC Servers\./
+/OPC Servers not found\. Programm finished/
+/%s\[%s\]!!!EXEPTION %i!!!/
+/Start finging of OPC Tags\.\.\./
+/\\\\\\\\\.\\\\pipe\\\\mypipe-f/
+/\\\\\\\\\.\\\\pipe\\\\mypipe-h/
+/\\\\qln\.dbx/
+/\*\.yls/
+/\\\\\*\.xmd/
+/fertger/
+/[^0-9a-zA-Z]~tracedscn\.yls[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\[!\]Start[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\[\+\]Get WSADATA[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\[-\]Can not get local ip[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\[\+\]Local:[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\[-\]Threads number > Hosts number[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\[-\]Connection error[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]bddd4e2b84fa2ad61eb065e7797270ff\.exe[^0-9a-zA-Z]/
+/CmdProcessExited/
+/rootDir/
+/DllRegisterServer/
+/GetNativeSystemInfo/
+/%08x%08x%08x%08x/
+/[^0-9a-zA-Z]Coded By M3[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Stub Undetector M3[^0-9a-zA-Z]/
+/www\.webmenegatti\.com\.br/
+/[^0-9a-zA-Z]M3n3gatt1[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]TheMisterFUD[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]M3n3gatt1hack3r[^0-9a-zA-Z]/
+/C:\\\\Users\\\\Berg Silva\\\\Desktop\\\\/
+/[^0-9a-zA-Z]URLDownloadToFileA 0, \\"https://dl\.dropbox\.com/u/105015858/nome\.exe\\", \\"c:\\\\nome\.exe\\", 0, 0[^0-9a-zA-Z]/
+/[^0-9a-zA-Z] Process\.Start \(Path\.GetTempPath\(\) & \\"name\\" & \\"\.exe\\"\) 'start server baixado[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]FileDelete\(@TempDir & \\"\\\\nome\.exe\\"\) ;Deleta o Arquivo para que possa ser executado normalmente[^0-9a-zA-Z]/
+/[^0-9a-zA-Z] Lib \\"\\\\WINDOWS\\\\system32\\\\UsEr32\.dLl\\"[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\$Directory = @TempDir & \\"\\\\nome\.exe\\" ;Define a variavel[^0-9a-zA-Z]/
+/https://dl\.dropbox\.com/u/105015858/
+/%08x%08x%08x%08x/
+/WinHttpGetIEProxyConfigForCurrentUser/
+/[^0-9a-zA-Z]TbSiaEdJTf9m1uTnpjS\.n9n9M7dZ7FH9JsBARgK[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\)U71UDAU_QU_YU_aU_iU_qU_yU_[^0-9a-zA-Z]/
+/(C)onnected/
+/(S)end/
+/(D)ownloadData/
+/(D)eleteSubKey/
+/(O)SFullName/
+/(n)etsh firewall/
+/(c)md\.exe \/k ping 0 & del/
+/(c)md\.exe \/c ping 127\.0\.0\.1 & del/
+/(c)md\.exe \/c ping 0 -n 2 & del/
+/netsh firewall add allowedprogram /
+/SEE_MASK_NOZONECHECKS/
+/\[TAP\]/
+/ & exit/
+/md\.exe /k ping 0 & del /
+/cmd\.exe /c ping 127\.0\.0\.1 & del/
+/cmd\.exe /c ping/
+/Connected/
+/DeleteSubKey/
+/OSFullName/
+/Send/
+/Connected/
+/DownloadData/
+/netsh firewall/
+/cmd\.exe /k ping 0 & del/
+/boot\.ldr/
+/[^0-9a-zA-Z]mscoree\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Explorer\.exe[^0-9a-zA-Z]/
+/\$this\.Icon/
+/\{11111-22222-20001-00001\}/
+/Ancestor for '%s' not found/
+/Control-C hit/
+/SETTINGS/
+/HawkEyeKeylogger/
+/099u787978786/
+/HawkEye_Keylogger/
+/holdermail\.txt/
+/wallet\.dat/
+/Keylog Records/
+/<!-- do not script -->/
+/\\\\pidloc\.txt/
+/BSPLIT/
+/-CHECK & PING -n 2 127\.0\.0\.1 & EXIT/
+/england\.png/
+/Showed Messagebox/
+/BATScripting/
+/FBqINhRdpgnqATxJ\.html/
+/magic_key/
+/We Control Your Digital World/
+/RC4Initialize/
+/RC4Decrypt/
+/SMARTLOGS/
+/RUNPE/
+/b\.Resources/
+/CLIENTINFO\*/
+/Invalid Webcam Driver Download URL, or Failed to Download File!/
+/Proactive Anti-Malware has been manually activated!/
+/REMOVEGUARD/
+/C0n1f8/
+/Luminosity/
+/LuminosityCryptoMiner/
+/MANAGER\*CLIENTDETAILS\*/
+/dickcursor\.cur/
+/\{0\}\|\{1\}\|\{2\}/
+/Miner: Failed to Inject\./
+/Started GPU Mining on:/
+/BK: Hard Bot Killer Ran Successfully!/
+/Uploaded Keylogs Successfully!/
+/No Slowloris Attack is Running!/
+/An ARME Attack is Already Running on/
+/Proactive Bot Killer Enabled!/
+/PlasmaRAT/
+/AntiEverything/
+/holderwb\.txt/
+/There is a file attached to this email/
+/screens\\\\screenshot/
+/Disablelogger/
+/\\\\pidloc\.txt/
+/clearie/
+/clearff/
+/emails should be sent to you shortly/
+/jagex_cache\\\\regPin/
+/open=Sys\.exe/
+/PredatorLogger/
+/EncryptedCredentials/
+/Predator Pain/
+/SpyTheSpy/
+/wireshark/
+/apateDNS/
+/Unknown/
+/stub\.exe/
+/shutdowncomputer/
+/shutdown -r -t 00/
+/set cdaudio door closed/
+/FileManagerSplit/
+/Chating With >> \[~Hacker~\]/
+/ftp://\{0\}@\{1\}/
+/SELECT \* FROM moz_logins/
+/SELECT \* FROM moz_disabledHosts/
+/DynDNS\\\\Updater\\\\config\.dyndns/
+/\|BawaneH\|/
+/#-@NewLine@-#/
+/pSIL/
+/ESIL/
+/-CHECK & PING -n 2 127\.0\.0\.1 & EXIT/
+/england\.png/
+/Showed Messagebox/
+/GetDirectory: File not found/
+/mq\.png/
+/\\\\mozglue\.dll/
+/(X)tremeKeylogger/
+/(X)tremeRAT/
+/(X)TREMEUPDATE/
+/(S)TUBXTREMEINJECTED/
+/(U)nitConfigs/
+/(U)nitGetServer/
+/(U)nitKeylogger/
+/(U)nitCryptString/
+/(U)nitInstallServer/
+/(U)nitInjectServer/
+/(U)nitBinder/
+/(U)nitInjectProcess/
+/XTREME/
+/XTREMEBINDER/
+/STARTSERVERBUFFER/
+/SOFTWARE\\\\XtremeRAT/
+/XTREMEUPDATE/
+/XtremeKeylogger/
+/myversion\|3\.5/
+/xtreme rat/i
+/[^0-9a-zA-Z]Email: blacksplitn@gmail\.com[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]User-Agent:[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]www\.example\.com[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]SELECT UNICODE\(SUBSTRING\(\(system_user\),\{0\},1\)\)[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Bienvenue dans un processus distant[^0-9a-zA-Z]/
+/Format d'appel invalide : addLogonSession \[idSecAppHigh\] idSecAppLow Utilisateur/
+/[^0-9a-zA-Z]SECURITY\\\\Policy\\\\Secrets[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Injection de donn[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]TSETPASSWORDFORM[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]TGETNTUSERNAMEFORM[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]TPORTFORM[^0-9a-zA-Z]/
+/\[Failed to load winpcap packet\.dll\./
+/PacketX Version/
+/[^0-9a-zA-Z]No data to read\.\$Can not bind in port range \(%d - %d\)[^0-9a-zA-Z]/
+/Connection Closed Gracefully\.;Could not bind socket\. Address and port are alread/
+/[^0-9a-zA-Z]Idt Tool bY tMd\[CsP\][^0-9a-zA-Z]/
+/[^0-9a-zA-Z]cmdshell\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\[Root@CmdShell ~\]#[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Bienvenue dans un processus distant[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Erreur : le bureau courant \([^0-9a-zA-Z]/
+/[^0-9a-zA-Z]klock de mimikatz pour Windows[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]C:\\\\Windows\\\\Temp\\\\Cmd\.txt[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]down\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]http://localhost/retomysql/pista\.aspx\?id_pista=1[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]SELECT ASCII\(SUBSTR\(username,\{0\},1\)\) FROM USER_USERS[^0-9a-zA-Z]/
+/[^0-9a-zA-Z] TSInternetUser [^0-9a-zA-Z]/
+/[^0-9a-zA-Z] WINS/DNS [^0-9a-zA-Z]/
+/[^0-9a-zA-Z]winerror=%1[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]TermService [^0-9a-zA-Z]/
+/[^0-9a-zA-Z]title=%s%s-%s;id=%s;hwnd=%d;mainhwnd=%d;mainprocess=%d;cmd=%d;[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Mozilla/4\.0 \(compatible; MSIE 6\.0; Windows NT 5\.0; \.NET CLR 1\.1\.4322\)[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]http://www\.pcshares\.cn/pcshare200/lostpass\.asp[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]port=%s;name=%s;pass=%s;[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%s\\\\ini\\\\\*\.dat[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]pcinit\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]http://www\.pcshare\.cn[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]WiNrOOt@126\.com[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Dll_LoadEx\.EXE[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Dll_LoadEx Microsoft [^0-9a-zA-Z]/
+/[^0-9a-zA-Z]WiNrOOt[^0-9a-zA-Z]/
+/[^0-9a-zA-Z] Dll_LoadEx\(&A\)\.\.\.[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]NextSecurity\.NET[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]SwitchSniffer Setup[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]080404B0[^0-9a-zA-Z]/
+/List count out of bounds \(%d\)\+Operation not allowed on sorted string list%String/
+/[^0-9a-zA-Z]Hscan\.EXE[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Hscan Application [^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Device\\\\XScanPF[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\DosDevices\\\\XScanPF[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Arp EMP v1\.0\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]C:\\\\Windows\\\\System32\\\\Shiell\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Shift shell\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\" /v debugger /t REG_SZ /d \\"[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\C\$\\\\123456111111111111111\.doc[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]SV Dumper V1\.0[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]HttpScanner\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]HttpScanner[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]PipeCmd\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]PIPECMDSRV[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]FPipe\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Retransmission Timeout Algorithm    = unknown \(%1!u!\)[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Administrative Status  = %1!u![^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Packet Too Big            %1!-10u!  %2!-10u![^0-9a-zA-Z]/
+/Reveals the passwords stored in the Registry by Enterprise Manager of SQL Server/
+/[^0-9a-zA-Z]empv\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Enterprise Manager PassView[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]'%s' is not a valid time!'%s' is not a valid date and time[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]C:\\\\Windows\\\\Temp\\\\Down\.txt[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]C:\\\\Windows\\\\Temp\\\\Cmd\.txt[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]C:\\\\Windows\\\\Temp\\\\[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]down\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]No data to read\.\$Can not bind in port range \(%d - %d\)[^0-9a-zA-Z]/
+/Failed to clear tab control Failed to delete tab at index %d\\"Failed to retrieve/
+/[^0-9a-zA-Z]AJunk\.DLL[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]AJunk Dynamic Link Library[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]BBABORT[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]BBCANCEL[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]BBCLOSE[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]BBHELP[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]BBIGNORE[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]PREVIEWGLYPH[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]DLGTEMPLATE[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]TABOUTBOX[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]TFORM1[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]MAINICON[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Device\\\\devIdtTool[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]TTFTPSERVERFRM[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]TPORTSCANSETFRM[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]TIISSHELLFRM[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]TADVSCANSETFRM[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]TSNIFFERFRM[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]TCRACKSETFRM[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]TCRACKFRM[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]http://www\.ip138\.com/ip2city\.asp[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]http://www\.md5decrypter\.co\.uk/feed/api\.aspx\?[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]ListBox_Command[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]md=7fef6171469e80d32c0559f88b377245&submit=MD5\+Crack[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Set\.ini[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]OpenFileDialog1[^0-9a-zA-Z]/
+/[^0-9a-zA-Z] \(\*\.txt\)\|\*\.txt[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Shanlu Studio[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]PcShare\.EXE[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]PcShare[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]QQ:4564405[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Powered by CoolDiyer @ C\.Rufus Security Team 05/19/2008  http://www\.xcodez\.com/[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]---- C\.Rufus Security Team ----[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]www\.snzzkz\.com[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Radmin, Remote Administrator[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Radmin 3\.0 Hash [^0-9a-zA-Z]/
+/[^0-9a-zA-Z]HASH1\.0[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]OSEditor\.exe[^0-9a-zA-Z]/
+/netsafe/
+/[^0-9a-zA-Z]OSC Editor[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Not supported\.[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]SystemDefaultEUDCFont[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Process Ok, Memory Ok, resuming process :\)[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Kiwi Cmd no-gpo[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]KiwiAndCMD[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]www\.gxgl\.com&www\.gxgl\.net[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Device\\\\IDTProt[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\\?\?\\\\slIDTProt[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]root\\\\MicrosoftIISv2[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]C:\\\\Windows\\\\System32\\\\JAVASYS\.EXE[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]ServiceSystemShell[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\[Root@CmdShell ~\]#[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Hello Man 2015 ![^0-9a-zA-Z]/
+/Connection Closed Gracefully\.;Could not bind socket\. Address and port are alread/
+/[^0-9a-zA-Z]No data to read\.\$Can not bind in port range \(%d - %d\)[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]http://md5\.com\.cn/index\.php/md5reverse/index/md/[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]http://www\.md5decrypter\.co\.uk/feed/api\.aspx\?[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]http://www\.md5\.com\.cn[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]1\.5\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\Set\.ini[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]OpenFileDialog1[^0-9a-zA-Z]/
+/[^0-9a-zA-Z] \(\*\.txt\)\|\*\.txt[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]DBN_POST[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]www\.1285\.net[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]TUPFILEFORM[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]DBN_DELETE[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]DBINSERT[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Copyright \(C\) Kibosoft Corp\. 2001-2006[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Bienvenue dans un processus distant[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]kappfree de mimikatz pour Windows \(anti AppLocker\)[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]smsniff\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Process Ok, Memory Ok, resuming process :\)[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Kiwi Taskmgr no-gpo[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]KiwiAndTaskMgr[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]kappfree de mimikatz pour Windows \(anti AppLocker\)[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]' introuvable ![^0-9a-zA-Z]/
+/[^0-9a-zA-Z]kiwi\\\\mimikatz[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Erreur : impossible de basculer le bureau ; SwitchDesktop : [^0-9a-zA-Z]/
+/[^0-9a-zA-Z]klock de mimikatz pour Windows[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]- inconsistent onexit begin-end variables[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Hello World![^0-9a-zA-Z]/
+/[^0-9a-zA-Z]kelloworld de mimikatz pour Windows[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%s is not a valid IP address\.[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]mimikatz[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Copyright \(C\) 2012 Gentil Kiwi[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Gentil Kiwi[^0-9a-zA-Z]/
+/\/scomma kbd101\.sys/
+/(N)AME,EMAIL CLIENT,EMAIL ADDRESS,SERVER NAME,SERVER TYPE,USERNAME,PASSWORD,PROFILE/
+/\/scomma excel2010\.part/
+/(A)PPLICATION,PROTOCOL,USERNAME,PASSWORD/
+/\/stab MSVCR32\.manifest/
+/\/scomma MSN2010\.dll/
+/\/scomma Firefox\.base/
+/(I)NDEX,URL,USERNAME,PASSWORD,USERNAME FIELD,PASSWORD FIELD,FILE,HTTP/
+/\/scomma IE7setup\.sys/
+/(O)RIGIN URL,ACTION URL,USERNAME FIELD,PASSWORD FIELD,USERNAME,PASSWORD,TIMESTAMP/
+/\/scomma office2007\.cab/
+/(U)RL,PASSWORD TYPE,USERNAME,PASSWORD,USERNAME FIELD,PASSWORD FIELD/
+/\/scomma outlook2007\.dll/
+/(F)ILENAME,ENCRYPTION,VERSION,CRC,PASSWORD 1,PASSWORD 2,PASSWORD 3,PATH,SIZE,LAST MODIFICATION DATE,ERROR/
+/(s)111o00000000\.dat/
+/(t)111o00000000\.dat/
+/(f)113o00000000\.dat/
+/(w)114o00000000\.dat/
+/(u)112Q00000000\.dat/
+/(v)112Q00000000\.dat/
+/(v)112O00000000\.dat/
+/2101[0-9A-F]{8}\.dat/
+/\[%19s\] %25s\:    %s/
+/Global\\\{A48F1A32\-A340\-11D0\-BC6B\-00A0C903%\.04X\}/
+/(1411|1421|1431|1451)[0-9A-F]{8}\.dat/
+/(m)sc183Q000\.dat/
+/2201[0-9A-F]{8}\.dat/
+/\\\\\\\\\.\\\\driverw/
+/(J)ane Dow\'s x32 machine/
+/(J)ane Dow\'s x64 machine/
+/(S)creenShort Recording/
+/(S)ystem\\CurrentControlSet\\Services\\mssounddx/
+/\/scomma kbd101\.sys/
+/(N)AME,EMAIL CLIENT,EMAIL ADDRESS,SERVER NAME,SERVER TYPE,USERNAME,PASSWORD,PROFILE/
+/\/scomma excel2010\.part/
+/(A)PPLICATION,PROTOCOL,USERNAME,PASSWORD/
+/\/stab MSVCR32\.manifest/
+/\/scomma MSN2010\.dll/
+/\/scomma Firefox\.base/
+/(I)NDEX,URL,USERNAME,PASSWORD,USERNAME FIELD,PASSWORD FIELD,FILE,HTTP/
+/\/scomma IE7setup\.sys/
+/(O)RIGIN URL,ACTION URL,USERNAME FIELD,PASSWORD FIELD,USERNAME,PASSWORD,TIMESTAMP/
+/\/scomma office2007\.cab/
+/(U)RL,PASSWORD TYPE,USERNAME,PASSWORD,USERNAME FIELD,PASSWORD FIELD/
+/\/scomma outlook2007\.dll/
+/(F)ILENAME,ENCRYPTION,VERSION,CRC,PASSWORD 1,PASSWORD 2,PASSWORD 3,PATH,SIZE,LAST MODIFICATION DATE,ERROR/
+/(s)111o00000000\.dat/
+/(t)111o00000000\.dat/
+/(f)113o00000000\.dat/
+/(w)114o00000000\.dat/
+/(u)112Q00000000\.dat/
+/(v)112Q00000000\.dat/
+/(v)112O00000000\.dat/
+/2101[0-9A-F]{8}\.dat/
+/\[%19s\] %25s\:    %s/
+/Global\\\{A48F1A32\-A340\-11D0\-BC6B\-00A0C903%\.04X\}/
+/\\\\\\\\\.\\\\driverw/
+/(J)ane Dow\'s x32 machine/
+/(J)ane Dow\'s x64 machine/
+/(S)creenShort Recording/
+/(S)ystem\\CurrentControlSet\\Services\\mssounddx/
+/[^0-9a-zA-Z]%3u - Directory '%s' \(\*\.kirbi\)[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%\*s  pPublicKey         : [^0-9a-zA-Z]/
+/[^0-9a-zA-Z]ad_hoc_network_formed[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]<3 eo\.oe ~ ANSSI E>[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\\\\\*\.kirbi[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]kuhl_m_lsadump_getUsersAndSamKey ; kull_m_registry_RegOpenKeyEx SAM Accounts \(0x%08x\)[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]kuhl_m_lsadump_getComputerAndSyskey ; kuhl_m_lsadump_getSyskey KO[^0-9a-zA-Z]/
+/TEMP/
+/Lorem ipsum dolor sit amet, consecteteur adipiscing elit/
+/[^0-9a-zA-Z]Wang Products[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]ssh\([^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\)\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]IEXT2_IDC_HORZLINEMOVECURSOR[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]msctls_progress32[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Golden Fox[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Syn Scan Port[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]CZ88\.NET[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]LScanPort[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]LScanPort Microsoft[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]www\.yupsoft\.com[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\(http://www\.eyuyan\.com\)[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]1433[^0-9a-zA-Z]/
+/1433V/
+/[^0-9a-zA-Z]1433[^0-9a-zA-Z]/
+/1433V/
+/[^0-9a-zA-Z]ReactOS Command Processor[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Copyright \(C\) 1994-1998 Tim Norman and others[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Eric Kohl and others[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]ReactOS Operating System[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]BETAsupport@snadboy\.com[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]support@snadboy\.com[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]cmd\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]ReactOS Development Team[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]ReactOS Command Processor[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Insecure\.Org[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Copyright \(c\) Insecure\.Com[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]BypassUacDLL\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Win7ElevateDLL[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]BypassUacDLL[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]BypassUacDLL\.dll[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]BypassUacDLL\.dll[^0-9a-zA-Z]/
+/Wole32\.dll/
+/System32\\\\migwiz/
+/System32\\\\migwiz\\\\CRYPTBASE\.dll/
+/Elevation:Administrator!new:/
+/BypassUac/
+/[^0-9a-zA-Z]ph4nt0m[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]JoHor_Posts_Killer[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]ExeMiniDownload\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]360EntCall\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Same port used for two different protocols:[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\.share = %S - %S[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]szj1230@yesky\.com[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]MailTo:szj1230@yesky\.com[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]software\\\\microsoft\\\\internet explorer\\\\typedurls[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]TELNET \[host \[port\]\][^0-9a-zA-Z]/
+/[^0-9a-zA-Z]TELNET\.EXE[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Microsoft\(R\) Windows\(R\) Millennium Operating System[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Software\\\\Microsoft\\\\Telnet[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Executes Command Remotely[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]XYZCmd\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]No Client Software[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]FileSpy\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Not for distribution without the authors permission[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Utility to split and rejoin files\.0[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Copyright \(c\) Angus Johnson 2001-2002[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]SplitJoin[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]EMAIL:haoq@neusoft\.com[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]EMAIL:haoq@neusoft\.com[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]QQ2000b\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]WINDSHELL STUDIO\[WINDSHELL [^0-9a-zA-Z]/
+/[^0-9a-zA-Z]RangeScan\.EXE[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]RangeScan[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]ASPACK\.EXE[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]CLOSEDFOLDER[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]ASPack compressor[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]http://go\.163\.com/sdemo[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Player\.EXE[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]http://www\.BaiXue\.net \([^0-9a-zA-Z]/
+/[^0-9a-zA-Z]TFTPD32 -- [^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Edit The Content Of Cookie [^0-9a-zA-Z]/
+/[^0-9a-zA-Z]AntiyPorts\.EXE[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]AntiyPorts MFC Application[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]<P><H3>Account Information</H3><PRE>[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%s's password is %s</H3>[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]%s's password is blank</H3>[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]Glass2k\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]http://www\.brigsoft\.com[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]ArtTray Version 1\.0 [^0-9a-zA-Z]/
+/[^0-9a-zA-Z]STUB32\.EXE[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]STUB\.EXE[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]1996 InstallShield Software Corporation[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]fscan\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]PipeCmd\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]PIPECMDSRV[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]LScanPort\.EXE[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]www\.honker8\.com[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]www\.hf110\.com[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]LScanPort Microsoft [^0-9a-zA-Z]/
+/[^0-9a-zA-Z]L-ScanPort2\.0 CooFly[^0-9a-zA-Z]/
+/System32\\\\lsass\.exe/i
+/[^0-9a-zA-Z]mimikatz\.exe[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]\]X86Instruction->OperandSize >= Operand->Length[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]mhook\\\\disasm-lib\\\\disasm\.c[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]mhook\\\\disasm-lib\\\\disasm_x86\.c[^0-9a-zA-Z]/
+/41\.208\.110\.46/
+/winmeif\.myq-see\.com/i
+/wininit\.myq-see\.com/i
+/samsung\.ddns\.me/i
+/collge\.myq-see\.com/i
+/sara2011\.no-ip\.biz/i
+/[^0-9a-zA-Z]var lilogo = 'http://content\.linkedin\.com/etc/designs/linkedin/katy/global/clientlibs/img/logo\.png';[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]dark=document\.getElementById\('darkenScreenObject'\); [^0-9a-zA-Z]/
+/[^0-9a-zA-Z]beef\.execute\(function\(\) \{[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]var logo  = 'http://www\.youtube\.com/yt/brand/media/image/yt-brand-standard-logo-630px\.png';[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]description\.text\('Enter your Apple ID e-mail address and password'\);[^0-9a-zA-Z]/
+/sneakydiv\.innerHTML= '<div id=\\"edge\\" '\+edgeborder\+'><div id=\\"window_container\\" '\+windowborder\+ '><div id=\\"title_bar\\" ' \+ti/
+/[^0-9a-zA-Z]var logo  = 'https://www\.yammer\.com/favicon\.ico';[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]beef\.net\.send\('<%= @command_url %>', <%= @command_id %>, 'answer='\+answer\);[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]var title = 'Session Timed Out <img src=\\"' \+ lilogo \+ '\\" align=right height=20 width=70 alt=\\"LinkedIn\\">';[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]var title = 'Session Timed Out <img src=\\"' \+ logo \+ '\\" align=right height=20 width=70 alt=\\"YouTube\\">';[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]var title = 'Session Timed Out <img src=\\"' \+ logo \+ '\\" align=right height=24 width=24 alt=\\"Yammer\\">';[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]var logobox = 'style=\\"border:4px #84ACDD solid;border-radius:7px;height:45px;width:45px;background:#ffffff\\"';[^0-9a-zA-Z]/
+/sneakydiv\.innerHTML= '<br><img src=\\\\''\+imgr\+'\\\\' width=\\\\'80px\\\\' height\\\\'80px\\\\' /><h2>Your session has timed out!</h2><p>For/
+/[^0-9a-zA-Z]inner\.append\(title, description, user,password\);[^0-9a-zA-Z]/
+/sneakydiv\.innerHTML= '<div id=\\"window_container\\" '\+windowborder\+ '><div id=\\"windowmain\\" ' \+windowmain\+ '><div id=\\"title_bar/
+/sneakydiv\.innerHTML= '<div id=\\"window_container\\" '\+windowborder\+ '><div id=\\"windowmain\\" ' \+windowmain\+ '><div id=\\"title_bar/
+/[^0-9a-zA-Z]answer = document\.getElementById\('uname'\)\.value\+':'\+document\.getElementById\('pass'\)\.value;[^0-9a-zA-Z]/
+/[^0-9a-zA-Z]password\.keydown\(function\(event\) \{[^0-9a-zA-Z]/
+/__SYSTEM__/
+/Borland/
+/This program must be run under Win32/i
+/This program cannot be run in DOS mode/i
+/This program requires Win32/i
+/This program must be run under Win64/i
+/-LIBGCCW32-EH-3-SJLJ-GTHR-MINGW32/i
+/-LIBGCCW32-EH-2-SJLJ-GTHR-MINGW32/i
+/-GCCLIBCYGMING-EH-TDM1-SJLJ-GTHR-MINGW32/i
+/AutoIt has detected the stack has become corrupt\.\\n\\nStack corruption typically occurs when either the wrong calling convention is used or when the function is called with the wrong number of arguments\.\\n\\nAutoIt supports the __stdcall \(WINAPI\) and __cdecl calling conventions\.  The __stdcall \(WINAPI\) convention is used by default but __cdecl can be used instead\.  See the DllCall\(\) documentation for details on changing the calling convention\./i
+/AutoIt Error/i
+/Missing right bracket '\)' in expression\./i
+/Missing operator in expression\./i
+/Unbalanced brackets in expression\./i
+/Error parsing function call\./i
+/>>>AUTOIT NO CMDEXECUTE<<</i
+/#requireadmin/i
+/#OnAutoItStartRegister/i
+/#notrayicon/i
+/Cannot parse #include/i
+/ -- terminating\\x0D\\x0A\\x00 -- terminating\\x0A\\x00CRT: \\x00unexpected error\\x00/i
+/unhandled exception \(main\)\\x00unhandled exception in thread\\x00unable to create thread\\x00unable to destroy semaphore\\x00/i
+/unable to wait on semaphore\\x00unable to post semaphore\\x00unable to init semaphore\\x00unable to unlock mutex\\x00unable to lock mutex\\x00unable to init mutex\\x00/i
+/invalid stream lock number\\x00corrupt per-thread data\\x00out of memory\\x00unable to init threads\\x00unable to init HEAP/i
