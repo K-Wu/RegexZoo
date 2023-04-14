@@ -1,5 +1,9 @@
 # RegexZoo
 
+[![CodeFactor](https://www.codefactor.io/repository/github/k-wu/regexzoo/badge?s=42726d31077e811519a1154a974499049e407d75)](https://www.codefactor.io/repository/github/k-wu/regexzoo)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/23d36dd14441404b98690f4fb835ac8e)](https://app.codacy.com?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+
+
 Reproducing regex from [AutomataZoo](https://github.com/tjt7a/AutomataZoo)。
 
 ## Source
@@ -29,3 +33,6 @@ This does not seem a good regex task to me and should better be implemented on G
 The inputs and rules raw files are from AutomataZoo, ClamAV, and snort. They may be licensed under their own licenses. Please check the corresponding subdirectory or website for licensing information.
 
 Please feel free to raise issue or email us if you feel there is a license infringement.
+
+## Reference
+https://github.com/katef/libfsm/
